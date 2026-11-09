@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-09-28T23:40:00+09:00",
+  "analyzed_by": "opencode agent (in-chat, no API)",
+  "labels": [
+    {
+      "ix": 111124,
+      "ai_policy": "must",
+      "ai_modality": ["software"],
+      "ai_evidence": "AI 기술을 접목한 고용24 서비스 MVP 구현 / 선정 20팀에는 생성형 AI 플랫폼을 제공",
+      "source_level": "L0",
+      "confidence": 0.9,
+      "fit_score": 0.5
+    },
+    {
+      "ix": 111272,
+      "ai_policy": "allowed",
+      "ai_modality": ["video"],
+      "ai_evidence": "공모형식: 20초~2분 SNS 숏폼 세로형 영상(장르 제한 없음) / *AI 활용가능",
+      "source_level": "L0",
+      "confidence": 0.95,
+      "fit_score": 0.9
+    },
+    {
+      "ix": 110744,
+      "ai_policy": "unclear",
+      "ai_modality": ["text"],
+      "ai_evidence": "AI 관련 조항 없음. 웹소설 연재 공모(본문에 AI 언급 없음)",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.1
+    },
+    {
+      "ix": 110826,
+      "ai_policy": "unclear",
+      "ai_modality": ["image"],
+      "ai_evidence": "AI 관련 조항 없음. 건축·조경 융합디자인 제안 공모",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.1
+    },
+    {
+      "ix": 110886,
+      "ai_policy": "unclear",
+      "ai_modality": ["video"],
+      "ai_evidence": "AI 관련 조항 없음. 점자 100주년 숏폼 영상 공모",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.3
+    },
+    {
+      "ix": 111050,
+      "ai_policy": "unclear",
+      "ai_modality": ["image"],
+      "ai_evidence": "AI 관련 조항 없음. 관광기념품(공산품·공예품 등) 공모",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.1
+    },
+    {
+      "ix": 111142,
+      "ai_policy": "unclear",
+      "ai_modality": ["text"],
+      "ai_evidence": "AI 관련 조항 없음. 경영혁신·국정과제 아이디어 공모",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.05
+    },
+    {
+      "ix": 111172,
+      "ai_policy": "unclear",
+      "ai_modality": ["video"],
+      "ai_evidence": "AI 관련 조항 없음. 대전 관광 영상 자유 표현 공모",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.4
+    },
+    {
+      "ix": 109733,
+      "ai_policy": "unclear",
+      "ai_modality": ["video"],
+      "ai_evidence": "AI 관련 조항 없음. 세척 루틴 숏폼 영상 공모(주제곡 BGM 활용)",
+      "source_level": "L0",
+      "confidence": 0.6,
+      "fit_score": 0.3
+    },
+    {
+      "ix": 111259,
+      "ai_policy": "allowed",
+      "ai_modality": ["video", "image"],
+      "ai_evidence": "제작방식: AI를 활용한 촬영·편집 등은 자유롭게 가능하나, 실존 인물·실제 취재 기반이어야 하며 AI로 생성한 가상 인물·가상 인터뷰는 허용하지 않음",
+      "source_level": "L0",
+      "confidence": 0.9,
+      "fit_score": 0.85
+    }
+  ]
+}

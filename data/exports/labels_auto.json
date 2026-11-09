@@ -1,0 +1,272 @@
+[
+  {
+    "ix": 111968,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "최근 3개월 이내 본인이 직접 촬영한 영상을 제출해야 하고 자막·음악 없는 원본을 선호함",
+    "source_level": "L2",
+    "confidence": 0.5,
+    "fit_score": 30
+  },
+  {
+    "ix": 111965,
+    "ai_policy": "must",
+    "ai_modality": "software,text",
+    "ai_evidence": "\"AI(에듀테크)를 활용해 창업아이디어를 발굴하라\" - AI 활용이 대회 주제 그 자체이며 AI 기반 해결책과 프로토타입을 개발해야 함",
+    "source_level": "L2",
+    "confidence": 0.85,
+    "fit_score": 85
+  },
+  {
+    "ix": 111941,
+    "ai_policy": "allowed",
+    "ai_modality": "video",
+    "ai_evidence": "실사 촬영, 애니메이션, 일러스트, 화면 녹화, AI 생성 콘텐츠 등 다양한 표현 방식의 활용이 가능하며 AI 활용 정보를 접수폼에 기재하도록 명시함",
+    "source_level": "L2",
+    "confidence": 0.95,
+    "fit_score": 85
+  },
+  {
+    "ix": 111918,
+    "ai_policy": "unclear",
+    "ai_modality": "text,image",
+    "ai_evidence": "본문에 AI 활용 관련 규정이 전혀 명시되지 않아 가능 여부 판단 불가 (슬로건·캐릭터·아이디어 부문)",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 45
+  },
+  {
+    "ix": 111912,
+    "ai_policy": "must",
+    "ai_modality": "image,video",
+    "ai_evidence": "AI 이미지 또는 영상을 제작해 주세요, AI 제작 과정 증빙 자료를 구글 드라이브에 업로드하도록 요구하는 AI 창작 공모전임",
+    "source_level": "L2",
+    "confidence": 0.98,
+    "fit_score": 95
+  },
+  {
+    "ix": 111907,
+    "ai_policy": "unclear",
+    "ai_modality": "image",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 초등학생 대상 그림 그리기 공모전이라 AI 활용 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.35,
+    "fit_score": 15
+  },
+  {
+    "ix": 111898,
+    "ai_policy": "unclear",
+    "ai_modality": "video,image",
+    "ai_evidence": "직접 기획·제작한 동영상 및 사진만 인정하지만 본문에 AI 관련 규정이 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.45,
+    "fit_score": 35
+  },
+  {
+    "ix": 111894,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "본문 없음",
+    "source_level": "L0",
+    "confidence": 0.3,
+    "fit_score": 30
+  },
+  {
+    "ix": 111891,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "스마트폰 기기를 활용해 촬영·제작한 영화만 출품 가능하나 본문에 AI 관련 규정이 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.45,
+    "fit_score": 35
+  },
+  {
+    "ix": 111881,
+    "ai_policy": "unclear",
+    "ai_modality": "text",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 유료 글쓰기 출판 프로그램이라 AI 활용 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.3,
+    "fit_score": 30
+  },
+  {
+    "ix": 111880,
+    "ai_policy": "prohibited",
+    "ai_modality": "image",
+    "ai_evidence": "본인 직접 작업한 작품이 아닐 경우 입상이 취소됩니다",
+    "source_level": "L2",
+    "confidence": 0.55,
+    "fit_score": 15
+  },
+  {
+    "ix": 111878,
+    "ai_policy": "unclear",
+    "ai_modality": "image",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 도화지 손그림 실물 제출 방식이라 AI 활용 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.35,
+    "fit_score": 10
+  },
+  {
+    "ix": 111869,
+    "ai_policy": "must",
+    "ai_modality": "video",
+    "ai_evidence": "AI영상 제작에 관심 있는 누구나 참가 가능하며 대회 자체가 AI영상 공모전(부제: AI로 만드는 더 나은 세상)임",
+    "source_level": "L2",
+    "confidence": 0.85,
+    "fit_score": 90
+  },
+  {
+    "ix": 111855,
+    "ai_policy": "unclear",
+    "ai_modality": "text",
+    "ai_evidence": "공공 AI 대전환 등 정부혁신 관련 아이디어가 분야 중 하나이나 작품 제작 단계의 AI 활용 허용 규정은 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111848,
+    "ai_policy": "prohibited",
+    "ai_modality": "image",
+    "ai_evidence": "AI 등을 활용한 창작 사진은 제출 불가",
+    "source_level": "L2",
+    "confidence": 0.95,
+    "fit_score": 5
+  },
+  {
+    "ix": 111847,
+    "ai_policy": "must",
+    "ai_modality": "text",
+    "ai_evidence": "사회보장 데이터·AI를 활용하여 공공성을 추구하는 아이디어 발굴이 공모주제로 AI 활용이 참가 요건임",
+    "source_level": "L2",
+    "confidence": 0.8,
+    "fit_score": 85
+  },
+  {
+    "ix": 111846,
+    "ai_policy": "unclear",
+    "ai_modality": "image,video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않아 사진·포스터·동영상 제작 시 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111845,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "본인의 순수 창작물이어야 한다는 규정은 있으나 AI 활용 관련 규정은 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111841,
+    "ai_policy": "unclear",
+    "ai_modality": "text",
+    "ai_evidence": "AI·디지털 탄소중립형 아이디어 유형이 존재하나 작품 제작 단계의 AI 활용 규정은 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111839,
+    "ai_policy": "unclear",
+    "ai_modality": "text,software",
+    "ai_evidence": "로컬기반 ICT, AI·AR/VR·모바일 기술 등 콘텐츠 분야가 있으나 AI 활용 규정은 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111838,
+    "ai_policy": "unclear",
+    "ai_modality": "image",
+    "ai_evidence": "주제 예시로 AI의 발전과 미래 직업을 제시하나 어린이 미술대회로서 AI 사용 자체에 대한 규정은 명시되지 않음",
+    "source_level": "L2",
+    "confidence": 0.35,
+    "fit_score": 10
+  },
+  {
+    "ix": 111836,
+    "ai_policy": "unclear",
+    "ai_modality": "text,image",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 희귀질환 환자 및 가족의 실제 경험 극복수기·사진 공모라 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.3,
+    "fit_score": 10
+  },
+  {
+    "ix": 111835,
+    "ai_policy": "allowed",
+    "ai_modality": "image",
+    "ai_evidence": "제작방식 : 손그림 또는 그래픽 디자인, 생성형 AI 활용 가능",
+    "source_level": "L2",
+    "confidence": 0.95,
+    "fit_score": 75
+  },
+  {
+    "ix": 111834,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않아 숏폼 영상 제작 시 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111833,
+    "ai_policy": "unclear",
+    "ai_modality": "text,image,video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 개인 경험 기반 아티클·영상 공모라 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 35
+  },
+  {
+    "ix": 111832,
+    "ai_policy": "unclear",
+    "ai_modality": "image,video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 본인 SNS에 실제 아침밥 레시피를 올리는 방식이라 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.35,
+    "fit_score": 25
+  },
+  {
+    "ix": 111829,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않아 관광 홍보영상 제작 시 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111827,
+    "ai_policy": "unclear",
+    "ai_modality": "image,video",
+    "ai_evidence": "본인 창작물 요건과 표절·무단 합성 금지 규정은 있으나 AI 활용에 대한 명시적 규정이 없음",
+    "source_level": "L2",
+    "confidence": 0.4,
+    "fit_score": 40
+  },
+  {
+    "ix": 111824,
+    "ai_policy": "unclear",
+    "ai_modality": "video",
+    "ai_evidence": "본문에 AI 관련 규정이 명시되지 않았으며 보컬·퍼포먼스 콩쿠르라 AI 활용 가능 여부 판단 불가",
+    "source_level": "L2",
+    "confidence": 0.3,
+    "fit_score": 10
+  },
+  {
+    "ix": 111820,
+    "ai_policy": "unclear",
+    "ai_modality": "text,image",
+    "ai_evidence": "본문 없음",
+    "source_level": "L1",
+    "confidence": 0.3,
+    "fit_score": 30
+  }
+]

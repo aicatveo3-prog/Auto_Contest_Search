@@ -1,0 +1,651 @@
+# AI 공모전 판정 리포트
+- 생성: 2026-09-29T10:28:44+09:00
+- 분석 완료: 320건
+
+## AI 필수 (51)
+- [2026년 제1회 AMT AI 작곡대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111315) | D-14 | audio | 상금 1등 · -
+  - 근거: 주제에 맞춰 AI로 음악을 만들고 투표·좋아요·재생으로 경쟁 / Suno를 사용하는 모든 크리에이터
+- [2026 AI로 금산 창작물 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111306) | D-8 | video, image, text, audio | 상금 1등 · -
+  - 근거: 학생이 생성형 AI를 도구로 활용하여 금산을 소개·알리는 창작물 제작 / 공모 분야는 영상, 포스터, 웹툰, 노래
+- [2026년 제천시 AI 활용 데이터 분석 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111299) | D-34 | text | 상금 최우수 1명 · 150만원
+  - 근거: AI를 활용 및 데이터 분석을 기반으로 시정 발전 아이디어 제안
+- [Pollo AI K-pop MV 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111280) | D-9 | video | 상금 1등 3명 · 15만원
+  - 근거: Pollo AI를 활용해 오리지널 AI K-pop MV 영상 제작 (Pollo AI 사용 전제)
+- [충청북도 과학여행 이야기 AI 이미지‧영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111279) | D-17 | image, video | 상금 1등 · -
+  - 근거: 생성형 AI를 활용하여 창의적으로 재해석한 이미지 또는 30초 이내 영상 작품 출품
+- [과학기술문화 활동가 AI콘텐츠 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111278) | D-21 | image, video, text, audio | 상금 1등 · -
+  - 근거: AI를 활용한 창의적인 과학교육 콘텐츠 제작 (AI 캐릭터·애니메이션·웹툰·카드뉴스·교육영상·과학송 등)
+- [[BytePlus x AI-Kive] Seedance2.5 AI 시리즈 제작지원 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111273) | D-32 | video | 상금 1등 · -
+  - 근거: Seedance 2.0/2.5 AI 시리즈 제작지원 / '이 영상은 생성형 AI 기반으로 만들어졌습니다' 필수 표기
+- [제 3회 AI·디지털 융합 교육 콘텐츠 개발 경진대회 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111271) | D-34 | text | 상금 대상 1명 · 200만원
+  - 근거: AI·디지털 기술을 활용한 모든 교과의 창의적인 수업 콘텐츠 (생성형 AI·에듀테크 활용)
+- [2026 AI 활용 저작권 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111258) | D-27 | image, video | 상금 대상 1명 · 100만원
+  - 근거: 생성형 AI 기술을 활용한 이미지, 숏폼 영상 / 저작권 관련 자유주제
+- [한강버스 운항 1주년 AI 영상 & 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111242) | D-23 | video, image | 상금 대상 1명 · 200만원
+  - 근거: AI 영상 본편의 모든 시각 장면을 생성형 AI로 제작 / 단 SNS 사진 부문은 생성형 AI 이미지 생성·변형·합성 금지
+- [2026 AI 활용 숏폼 영상 공모전 (나의 공단, 나의 이야기)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111223) | D-33 | video | 상금 최우수상 1명 · 25만원
+  - 근거: AI 활용 숏폼 영상 공모전 / 공단 시설·프로그램 이용 경험을 담은 숏폼 영상
+- [NEXMUSE AI Music Video Contest 2027](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111222) | D-91 | audio, video | 상금 대상 1명 · 1,000만원
+  - 근거: AI 음원 및 AI 뮤직비디오 제작 / AI로 제작된 24명 아이돌 캐릭터 중 주인공 선택
+- [2026 충북영상자서전 사업 사랑나눔 스마트 AI 영상자서전 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111220) | D-25 | video | 상금 대상 1명 · 50만원
+  - 근거: AI 부문: 생성형 AI 최소 한 장면 이상 활용, 실제 촬영영상과 자유 결합 / 100% AI 영상은 불가(직접 촬영 인터뷰 30초 이상 포함)
+- [[방송미디어통신위원회] 생성형 AI 위험성 찾기 이벤트 시즌3](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111185) | D-14 | text | 상금 1등 · -
+  - 근거: 생성형 AI를 사용하며 경험한 위험성을 제보 (프롬프트 전체 과정·증빙 제출)
+- [제2회 인공지능 활용 우수사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111173) | D-33 | text | 상금 대상 2명 · 30만원
+  - 근거: 수기 부문: 생성형 AI 활용 경험 수기 / 제작 부문: 생성형 AI를 활용한 창의적 결과물
+- [2026 CTS 국제 AI 단편영화 제작지원사업](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111164) | D-33 | video | 상금 1등 · -
+  - 근거: 생성형 AI를 활용한 콘텐츠 제작 / 지원금 편당 300만원 (기독교 단편영화)
+- [2026 대한지방행정공제회 생성형 AI 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111132) | D-41 | video, image | 상금 1등 · 150만원
+  - 근거: 생성형 AI를 활용한 영상·이미지 콘텐츠 / 영상 30~60초 숏폼
+- [2026 고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111124) | D-15 | software | 상금 대상 1명 · 300만원
+  - 근거: AI 기술을 접목한 고용24 서비스 MVP 구현 / 선정 20팀에는 생성형 AI 플랫폼을 제공
+- [2026년 국립강원전문과학관 AI경진대회 (동화책 만들기, 4컷 과학만화 만들기)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111122) | D-14 | image, text | 상금 1등 · 50만원
+  - 근거: AI경진대회 (동화책 만들기, 4컷 과학만화 만들기)
+- [제 3회 송파 글로벌 AI영화음악 축제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111104) | D-44 | video, image, audio, text | 상금 1등 · -
+  - 근거: AI 영화 · AI웹툰 · AI음악 · AI미술 공모
+- [[의정부도시공사] AI 혁신 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111087) | D-41 | text | 상금 대상 1명 · 20만원
+  - 근거: 공사 업무 전반에서 AI를 활용할 수 있는 아이디어
+- [제1회 전국 대학생 AI 재무설계 콘테스트 (AFPK 영 플래너 챌린지 2026)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111059) | D-49 | text | 상금 1등 · 200만원
+  - 근거: AI로 그리는 자산관리 / AI 활용 재무설계 사례 + AI 활용 기술서 필수
+- [2026년 완주군 사진·AI영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111024) | D-32 | video, image | 상금 최우수상 1명 · 100만원
+  - 근거: AI영상 부문: AI로 그리는 대도약 완주 (AI·애니메이션·3D 등 활용)
+- [2026년 제4회 청소년 안전 AI 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111021) | D-41 | video, image, audio | 상금 대상 1명 · 50만원
+  - 근거: 60초 미만의 AI 기술 활용한 영상·이미지·음성·음악·캐릭터·스토리
+- [고양새일 × 딜라이브 60초 W-ink 영화제 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111010) | D-14 | video | 상금 1등 · 100만원
+  - 근거: 여성의 일과 경력에 관한 이야기를 AI 영상으로 표현 / 60초
+- [2026 AI 농산물 가격예측 온라인 해커톤 (내용 수정)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110970) | D-20 | software | 상금 대상 1명 · 100만원
+  - 근거: AI 농산물 가격예측 온라인 해커톤 / 예선은 코딩 없이 아이디어 기술서
+- [2026 KoMaP AI 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110953) | D-17 | software | 상금 대상 1명 · 500만원
+  - 근거: 고탄성 알루미늄 합금 이미지 상 분할 인공지능 모델 개발
+- [삼척시 홍보를 위한 AI 영상 제작 전국 공모전 (제2회 삼척시 AI영상제)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110951) | D-9 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 활용 영상제작 / 제2회 삼척시 AI영상제
+- [2026년 인공지능(AI) 활용 청소년활동 안전공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110945) | D-14 | text, video, image | 상금 최우수 1명 · 50만원
+  - 근거: 인공지능(AI) 활용 청소년활동 안전공모전 / 안전교육자료·숏폼·웹툰·카드뉴스
+- [2026 화성특례시 AI CF 공모전 - 제6회 별별화성 Awards](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110914) | D-20 | video, audio | 상금 대상 1명 · 400만원
+  - 근거: AI 숏폼·AI CF·AI CM송 부문 운영 / 총 6,000만원
+- [2026 대구정원박람회 AI 아트 챌린지 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110908) | D-29 | image | 상금 1등 · -
+  - 근거: 생성형 AI를 활용하여 5가지 주제 중 하나를 선택해 작품 제작
+- [2026 해운·항만·물류 AX 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110818) | D-32 | text | 상금 대상 1명 · 500만원
+  - 근거: 해운·항만·물류 산업의 현장 문제를 해결하고 AI 전환을 촉진할 수 있는 혁신 아이디어
+- [제6회 플라이하이 AI 패션 디자인 고교 콘테스트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110817) | D-86 | image | 상금 금상 1명 · 50만원
+  - 근거: AI를 활용하여 2030년 미래의 라이프스타일을 반영한 패션 디자인 제안
+- [AI와 소방안전의 융합, 일상을 지키는 재난안전 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110799) | D-33 | video | 상금 대상 1명 · 50만원
+  - 근거: AI·소방안전 융합 숏폼 영상 / AI를 활용한 새로운 소방안전 기술 제안
+- [2026 국립과천과학관 AI 활용 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110770) | D-18 | video | 상금 금상 1명 · 30만원
+  - 근거: 생성형 AI를 전혀 활용하지 않은 작품은 무효 처리 / AI 활용 증빙자료(프롬프트 화면) 필수
+- [2026년 국가정책연구포털 AI 쇼츠 영상공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110765) | D-33 | video | 상금 1등 · -
+  - 근거: AI 기술을 일부 또는 전부 활용하여 제작한 쇼츠 형태 영상물
+- [2026년 전통시장 디지털 혁신 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110696) | D-10 | text | 상금 1등 · 300만원
+  - 근거: AI 또는 블록체인을 적용한 전통시장 활성화 아이디어 제안
+- [2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110659) | D-24 | software, text | 상금 대상 1명 · 300만원
+  - 근거: 데이터+AI 혁신챌린지 / 데이터안심구역 내 미개방데이터를 분석·활용한 아이디어 발굴
+- [전국민 AI활용 사례 공모전 시즌 3](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110647) | D-33 | text, video | 상금 1등 · -
+  - 근거: 누구나 쉽게 참여 가능한 AI 활용 사례공모전 / 생활 속 AI 활용
+- [[세종사이버대 경영학과] AI 업무 생산성 혁신 사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110398) | D-27 | text, video | 상금 대상 · 100만원
+  - 근거: AI를 활용한 업무·학업 효율화 사례
+- [[한국해양교통안전공단] 2026 해양안전 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110324) | D-24 | image, video, text | 상금 1등 · 200만원
+  - 근거: AI 디자인물(AI 활용 카드뉴스·포스터), AI 숏폼 영상(AI 활용 90초 이내) 부문 운영
+- [Meta와 함께하는 AI 페스티벌 – AI로 그려낸 가족 이야기](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110277) | D-33 | image, video, text | 상금 대상 · 500만원
+  - 근거: 생성형 AI를 활용한 '가족' 주제 창작 / AI 결과물 그대로 제출이 아니라 아이디어 바탕으로 AI 활용
+- [AI 달인 100 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110273) | D-38 | text, video | 상금 1등 · -
+  - 근거: 생활 속 유용하고 특별한 AI 활용 노하우를 공유
+- [6.10만세운동 100주년 기념 독립페어 6.10만세운동 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110115) | D-8 | video | 상금 대상 1명 · 500만원
+  - 근거: 독립운동 AI 영화 부문 운영 (5~10분) / 청소년 UCC 부문
+- [제1회 BIFAN Ⅹ 더만타스토리 AI 숏폼 드라마 대본 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110072) | D-17 | text | 상금 최우수상 1명 · 500만원
+  - 근거: AI 숏폼 드라마 기획안 및 대본 15회 분량 / 회당 2분 내외 X 50부작
+- [2026 DATA·AI 분석 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110023) | D-43 | software | 상금 대상 1명 · 300만원
+  - 근거: AI 기술 및 데이터 분석을 통해 사회·과학 문제 발굴 / 높은 성능의 인공지능 모델 개발
+- [2026 청주영상위원회 AI 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109988) | D-14 | video | 상금 1등 · 500만원
+  - 근거: AI 기술을 활용한 스토리가 있는 영상 / 청주 소재
+- [[Muzig AI] AI 음악·BGM 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109248) | D-11 | audio | 상금 1등 · 200만원
+  - 근거: AI 음악·BGM 공모전 / 조회수 기준 순위·상금 결정
+- [움직이는 한국화 : AI 미디어아트 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109173) | D-25 | video | 상금 대상 · 1,000만원
+  - 근거: 한국의 전통문화·예술을 AI 기술로 재해석한 창의적인 미디어아트 영상
+- [[외교부] 제2회 KOREAZ 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106508) | D-27 | video | 상금 1등 · -
+  - 근거: 생성형 AI를 활용하여 제작한 영상 / 영상 제작 과정의 일부라도 AI를 활용하면 출품 가능
+- [2026 의성사랑 유튜브 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105935) | D-33 | video | 상금 최우수 1명 · 200만원
+  - 근거: AI영상 부문 운영 (일반영상/광고영상과 별도)
+
+## AI 허용 (36)
+- [[드론플레이x곰랩] 드론 영상•사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111290) | D-27 | video, image | 상금 대상 1명 · 10만원
+  - 근거: ③ AI 영상: 드론으로 촬영한 이미지와 함께 AI 편집 영상 5~10초 내외 제작 / AI 특별상 별도 운영
+- [2026년 보건복지분야 사회복무요원 SNS 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111272) | D-33 | video | 상금 대상 1명 · 100만원
+  - 근거: 공모형식: 20초~2분 SNS 숏폼 세로형 영상(장르 제한 없음) / *AI 활용가능
+- [2026 한국다지마 회전문 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111270) | D-21 | video | 상금 1등 · 100만원
+  - 근거: 생성형 AI를 활용한 작품도 자유롭게 출품 가능 (일부 또는 작품 전체 AI 제작 가능), 단 타인 저작권·초상권 침해 금지
+- [[충청북도교육청] 2026 학교 업무경감 실천사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111267) | D-14 | text | 상금 우수 · 10만원
+  - 근거: 디지털·AI 기반 업무경감 사례 분야 운영 / 생성형 AI와 자동화 도구 활용 업무 개선 사례 발굴
+- [[대전광역시 사회혁신센터] 2026 로컬스토리 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111259) | D-18 | video, image | 상금 대상 1명 · 100만원
+  - 근거: 제작방식: AI를 활용한 촬영·편집 등은 자유롭게 가능하나, 실존 인물·실제 취재 기반이어야 하며 AI로 생성한 가상 인물·가상 인터뷰는 허용하지 않음
+- [2026 서울시건축사회 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111229) | D-32 | video | 상금 대상 1명 · 200만원
+  - 근거: 생성형 AI 등을 활용하여 작품을 제작한 경우 해당 서비스 이용조건을 준수하여야 함
+- [2026 나주영산강축제 홍보 숏폼·크리에이터 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111206) | D-23 | video | 상금 대상 1명 · 400만원
+  - 근거: 축제홍보영상 부문: 생성형 AI 사용 가능
+- [네오아미코 큐레어 광고, 홍보 숏폼 영상 공모전 (AI 활용 가능)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111205) | D-11 | video | 상금 대상 1명 · 100만원
+  - 근거: (AI 활용 가능) / CURAIR 특장점을 보여주는 15~60초 세로형 숏폼 영상
+- [K-아이웨어 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111169) | D-18 | video | 상금 대상 1명 · 200만원
+  - 근거: 안경·선글라스 등 아이웨어 제품을 직접 촬영한 소스의 AI 편집·가공은 가능
+- [롯데렌터카 T car 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111140) | D-33 | video | 상금 1등 1명 · 100만원
+  - 근거: 부산센터 직접 방문 또는 생성형 AI 활용한 1분 이내 숏폼 영상 제작
+- [2027 국악누리 표지 그림 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111136) | D-32 | image | 상금 1등 · -
+  - 근거: AI 도구 활용 가능하되 창작성이 가미된 창작물이어야 함 / AI 활용 시 신청서 기재 필수, 누락 시 심사 제외
+- [인간존엄 모금광고 스토리보드 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111100) | D-34 | image, text | 상금 대상 1명 · 80만원
+  - 근거: 손그림·디지털 툴·생성형 AI 사용 가능 / 그림·그래픽 실력은 평가 안 함
+- [2026년 제5회 시흥시전국청소년영상제 참가팀 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111029) | D-50 | video | 상금 대상 1명 · 100만원
+  - 근거: AI·숏폼 콘텐츠 부문 운영 (세로형 9:16, 30~90초) / 별도 시상
+- [2026년 시흥시 기후위기대응 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111007) | D-18 | video | 상금 최우수상 · 40만원
+  - 근거: 생성형 AI 활용, 직접 찍은 영상과 AI 영상 혼합 가능
+- [공공 웹사이트 불법광고 탐지 도구 개발 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110998) | D-25 | software | 상금 대상 1명 · 200만원
+  - 근거: AI 기술 적용은 선택사항 / 불법광고 탐지 도구 개발
+- [2026년 지리적표시(PGI) 홍보 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110982) | D-17 | video | 상금 대상 1명 · 100만원
+  - 근거: 직접 촬영·제작 창작물이어야 하며 생성형 AI 활용은 지양 / 부득이 활용 시 영상 내 반드시 기재
+- [제31회 한신영상광고제 with 로컬러 x 티즌](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110957) | D-35 | video, text | 상금 최우수상 1명 · 75만원
+  - 근거: AI 활용 시 사용 툴·범위·제작 내역 필수 기재 (예: SUNO 배경음악, 생성형 AI 이미지)
+- [The Pattern 2026 콘테스트 : 오픈소스 패션 모델링 어워드](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110905) | D-18 | image | 상금 대상 1명 · 300만원
+  - 근거: 생성형 인공지능 활용 시 사용 도구·활용 범위·프롬프트를 작품 제작 설명서에 반드시 기재
+- [도시숲에서 만난 특별한 순간들(2026 도시숲 숏폼 공모전)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110834) | D-20 | video | 상금 대상 1명 · 100만원
+  - 근거: AI활용: AI 기법을 접목하여 도시숲 생물다양성 가치를 표현한 콘텐츠 (별도 부문)
+- [2026 뇌전증 인식개선 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110814) | D-27 | video | 상금 1등 · 50만원
+  - 근거: AI를 활용하여 제작한 경우 신청 시 AI 활용 여부 및 활용 범위를 기재
+- [2026년 밀양시 SNS 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110810) | D-32 | video | 상금 대상 1명 · 200만원
+  - 근거: 생성형 AI 활용 영상 분야 별도 운영 / AI 활용 시 도구·활용 범위 기재
+- [2026 양천구 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110687) | D-11 | video | 상금 최우수상 1명 · 100만원
+  - 근거: 특이사항: AI 활용 영상 응모 가능
+- [유스업(Youth UP!) 제1회 SDGs 실천 아이디어·숏츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110683) | D-51 | text, video | 상금 1등 1명 · 100만원
+  - 근거: AI는 보조적 용도(문장 다듬기·자막·배경음악 등)로만 활용 가능, AI가 전체를 창작한 작품은 심사 제외
+- [제18회 AI 윤리 인성 클린콘텐츠 정직 UCC 전국 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110679) | D-33 | video | 상금 1등 · -
+  - 근거: 응모분야: 실사동영상, 애니메이션 AI영상, 영상UCC / 공모주제에 AI윤리 포함
+- [[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110675) | D-9 | software | 상금 1등 · -
+  - 근거: 공모 주제에 피지컬 AI·AI 및 빅데이터·온디바이스 AI·사이버보안·자유주제 포함
+- [2026년 부산광역시 인권공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110666) | D-34 | image | 상금 대상 1명 · 60만원
+  - 근거: 생성형 AI는 일반 분야에 한하여 활용 가능, 활용 여부 필수 표기, 실질적 창작 포함 작품만 제출
+- [2026년 내가 발견한 보훈공단 60초에 담다 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110656) | D-33 | video | 상금 대상 1명 · 150만원
+  - 근거: 생성형 AI 활용 시 사용 도구·활용 범위·주요 생성·편집 과정을 'AI 활용 내용 기술서'에 기재
+- [제3회 ICN 26영화제 X 29초영화제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110617) | D-9 | video | 상금 1등 · -
+  - 근거: AI로 제작한 영상도 출품 가능 (100% 및 하이브리드 모두 허용), 인천공항임이 드러나는 요소 필요
+- [2026년 안전교육 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110610) | D-10 | video | 상금 대상 1명 · 200만원
+  - 근거: 제작 기법 제한 없으나 AI 활용 시 화면 내 표시 준수
+- [2026 0924영상제 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110585) | D-19 | video | 상금 최우수상 1명 · 100만원
+  - 근거: 생성형 AI 기술을 활용한 영상 등 자유 제작 / 생성형 AI 활용 영상도 출품 가능
+- [제7회 승가원 장애바로알기 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110575) | D-39 | video, image, text | 상금 대상 1명 · 100만원
+  - 근거: AI활용 영상 부문 / 영상 전체에 AI 활용 문구 삽입, 사용 AI툴 및 프롬프트 제출
+- [붉은 동백의 순간 MOMENTO  와인라벨 아트웍 공모전 (참가비 있음)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110380) | D-33 | image | 상금 최우수상 1명 · 300만원
+  - 근거: 장르: 서양화·한국화·민화·판화·디지털 일러스트·AI 등 / AI 활용 작품 출품 시 AI 활용 여부·사용 도구 기재
+- [제1회 세대공감 PR아이디어 대상 영상 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110352) | D-18 | video | 상금 대상 1명 · 100만원
+  - 근거: 실사·애니메이션·모션그래픽·AI 활용 등 자유 / 생성형 AI 활용 가능, 활용 내역 기재 필수
+- [제6회 소셜임팩트 디지털 아트 경연대회 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110056) | D-13 | image, video, software | 상금 1등 · 200만원
+  - 근거: 생성형 AI는 보조·부분 활용·핵심 생성 중 하나로 활용 가능 / AI가 생성한 결과물만으로 구성된 작품은 출품 불가
+- [2026 경로의 달 기념 노인권익증진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109641) | D-10 | image, text | 상금 1등 · -
+  - 근거: 사진(일반 및 생성형 AI) 분야 / 생성형 AI 사진은 결과물 + 생성 과정 스크린샷 제출
+- [2026 0924 영상제 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109535) | D-19 | video | 상금 최우수상 1명 · 100만원
+  - 근거: 생성형 AI 기술 활용 제작 영상 출품 가능
+
+## 확인 필요 (219)
+- [2026 POSTECH OIBC 빅데이터 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111314) | D-32 | software | 상금 대상 1명 · 500만원
+  - 근거: AI 언급 없음. 태양광 집합자원 최적화·발전량 예측 알고리즘 개발 경진대회
+- [2026 대한민국 청목캘리그라피 공모전 (참가비 있음)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111313) | D-43 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 캘리그라피(손글씨) 작품 공모
+- [LG 대국민 미소 사진 공모전 - 스마일 모먼트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111311) | D-20 | image | 상금 1등 · 100만원 ~ 150만원 상당
+  - 근거: AI 언급 없음. 일상 속 미소 사진 공모
+- [스마트관광신문 로컬 크리에이터 대학생 기자단 여담기자단 11기 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111310) | D-13 | text | 상금 1등 · -
+  - 근거: AI 언급 없음. 대학생 기자단(서포터즈) 모집
+- [2026 한국관광 콘텐츠랩 활용 우수사례 어워즈](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111298) | D-39 | image, video | 상금 최우수 1명 · 60만원
+  - 근거: AI 언급 없음. 관광콘텐츠랩 우수사례 공모
+- [[타라티피에스] 툴디 서포터즈 14기 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111297) | D-13 | text | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제2회 우주최고실패대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111296) | D-33 | text | 상금 1등 · -
+  - 근거: AI 언급 없음. 실패 경험 발표 공모
+- [2026 대한상공회의소 자격증 활용 우수사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111289) | D-32 | text | 상금 최우수상 3명 · 100만원
+  - 근거: AI 언급 없음. 자격증 활용 우수사례 공모
+- [2026전국청소년평화통일랩경연대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111286) | D-25 | audio, video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 창작랩 경연대회
+- [2026 승강기산업 진흥&승강기 안전문화 확산 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111285) | D-32 | text, video | 상금 대상 · 150만원
+  - 근거: AI 언급 없음. 슬로건·숏폼·정책/신기술 아이디어 공모
+- [제 5회 오롬 손글씨 페스타](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111284) | D-13 | image | 상금 1등 · 100만원
+  - 근거: AI 언급 없음. 손글씨 페스타
+- [제1회 지역 현안 해결 솔루션 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111283) | D-13 | text | 상금 대상 1명 · 1,000만원
+  - 근거: AI 언급 없음. 과학기술 활용 지역 현안 해결 아이디어 공모
+- [2026 제6회 필(必)환경 캠페인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111277) | D-14 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [양식 수산물 요리대회 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111276) | D-15 | image, video | 상금 대상 · 100만원
+  - 근거: AI 언급 없음. 양식 수산물 요리대회
+- [경기도 지구환경 지킴이 단체급식 숏폼영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111275) | D-13 | video | 상금 최우수상 1명 · 3,000원
+  - 근거: AI 언급 없음. 단체급식 숏폼영상 공모
+- [김해시 캐릭터·슬로건 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111274) | D-32 | image | 상금 1등 · 300만원
+  - 근거: AI 언급 없음. 캐릭터·슬로건 디자인 공모
+- [나만의 텃밭을 보여주세요 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111269) | D-27 | video | 상금 우수 5명 · 3만원
+  - 근거: AI 언급 없음. 텃밭 영상 공모
+- [2026 양주 나리농원 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111264) | D-27 | video | 상금 최우수 2명 · 100만원
+  - 근거: AI 언급 없음. 나리농원 숏폼 영상 공모
+- [2027년 한국은행 신진작가 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111244) | D-25 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 신진작가 미술 공모
+- [제2회 K-슈즈 메이킹 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111243) | D-32 | image | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 신발 디자인 공모
+- [2026년 제8회 아산전국가요제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111240) | D-13 | audio | 상금 장려상 5명 · 10만원
+  - 근거: AI 언급 없음. 가요제(가창력 대회)
+- [2026 PBS 숏폼 영상 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111236) | D-46 | video | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 숏폼 영상 콘텐츠 공모
+- [2026 진안고원푸드페스타 요리경연대회 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111235) | D-8 | image | 상금 1등 · 100만원
+  - 근거: AI 언급 없음. 요리경연대회
+- [2026년 지역자율형 사회서비스 우수사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111234) | D-25 | image | 상금 최우수상 1명 · 20만원
+  - 근거: AI 언급 없음. 사회서비스 우수사진 공모
+- [2026년 인천관광기념품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111221) | D-18 | image | 상금 최우수상 1명 · 200만원
+  - 근거: AI 언급 없음. 관광기념품 공모
+- [2026년 아동학대 예방의 날 기념 아이의 행복 우리가 함께 그림, 편지쓰기 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111216) | D-18 | image, text | 상금 1등 · -
+  - 근거: AI 언급 없음. 어린이 그림·편지 공모
+- [1시간대컷 캠페인 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111212) | D-63 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 강원 여행 영상 캠페인
+- [제15회 조계사 어린이 미술대회 (나는 화가다)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111211) | D-26 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 현장 어린이 미술대회
+- [교육부-EBS 함께학교 100초 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111203) | D-33 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 교육공동체 숏폼 공모
+- [2026 부산 1인미디어 영상콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111198) | D-20 | video | 상금 최우수상 · 200만원
+  - 근거: 공모주제: 지역특화(영도구) 분야 / ai(부산 도시문화·관광) 분야 — AI 규정 본문 미기재
+- [제22회 전국청소년환경사랑 그림공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111193) | D-28 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제72회 백제문화제 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111191) | D-25 | video | 상금 최우수 1명 · 150만원
+  - 근거: 출품장르에 'AI 제한' 문구 있음(원문 모호) → 확인 필요
+- [국가유산 유유자적 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111181) | D-18 | image | 상금 우수상 3명 · 30만원
+  - 근거: AI 언급 없음. 국가유산 사진 공모
+- [경상북도 청렴 브랜드 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111180) | D-22 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 청렴 브랜드 디자인 공모
+- [알록달록 365일 아동친화 동대문구의 열두 달 아동친화 달력 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111179) | D-21 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 아동 달력 그림 공모
+- [2026 문화의달 여수 YK DANCE FESTA 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111177) | D-8 | video | 상금 대상 · 250만원
+  - 근거: AI 언급 없음. 댄스 경연대회
+- [을숙도 대지·생태예술 국제공모](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111176) | D-55 | image | 상금 대상 · 2,000만원
+  - 근거: AI 언급 없음. 생태예술 국제공모
+- [제1회 리듬으로 부탁해 BMS 음악 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111174) | D-41 | audio | 상금 1등 · -
+  - 근거: AI 언급 없음. BMS 음악 공모
+- [2026 대전 3색 매력 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111172) | D-27 | video | 상금 최우수상 1명 · 300만원
+  - 근거: AI 관련 조항 없음. 대전 관광 영상 자유 표현 공모
+- [[디자인-부산2026] 디자인 해커톤 1기 공개모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111171) | D-11 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 디자인 해커톤
+- [부산의 수돗물 순수365 홍보디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111170) | D-32 | image | 상금 1등 · 100만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026년 제9회 대전 세계태양광총회 어린이 그림 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111159) | D-16 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제5회 전국 민화도슨팅 콘테스트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111156) | D-39 | video, audio | 상금 1등 · 100만원
+  - 근거: AI 언급 없음. 민화 도슨팅 콘테스트
+- [2026 한국수력원자력 대국민 혁신ㆍ국정과제 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111142) | D-20 | text | 상금 대상 · 1만원
+  - 근거: AI 관련 조항 없음. 경영혁신·국정과제 아이디어 공모
+- [[포천도시공사] 2026년 혁신 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111135) | D-18 | text | 상금 금상 · 30만원
+  - 근거: 디지털 기반 경영 분야로 AI·빅데이터·클라우드를 주제로 제시 (AI 사용 규정 아님)
+- [한국해양진흥공사와 함께하는 2026 KOBC 해양 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111123) | D-25 | image | 상금 대상 1명 · 1,000만원
+  - 근거: AI 언급 없음. 해양 사진 공모
+- [피란수도 부산유산 BI공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111119) | D-24 | image | 상금 대상 2명 · 500만원
+  - 근거: AI 언급 없음. BI(브랜드 아이덴티티) 디자인 공모
+- [제6회 필(必)환경 캠페인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111112) | D-14 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 GMIF 단편영화 작품공모](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111090) | D-20 | video | 상금 1등 · 30만원
+  - 근거: AI 언급 없음. 단편영화 작품공모
+- [2026년 제2회 대구시 정책제안 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111076) | D-8 | text | 상금 장려상 · 50만원
+  - 근거: 주제에 '청년 AI 사다리, 청년의 일상을 바꾸는 AI 아이디어' 포함 (AI 사용 규정 아님)
+- [2026 aT 화훼 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111075) | D-9 | video | 상금 1등 · 100만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [부산경남 경마공원 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111074) | D-30 | video | 상금 최우수상 1명 · 40만원
+  - 근거: AI 언급 없음. 경마공원 숏폼 공모
+- [불법의료광고 및 저수가 덤핑치과 대책 대국민 홍보 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111073) | D-12 | image, video, text | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 홍보 콘텐츠(슬로건·포스터·숏폼) 공모
+- [모두가 함께 만드는 국가상징구역 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111071) | D-24 | video | 상금 최우수상 1명 · 200만원
+  - 근거: AI 언급 없음. 국가상징구역 숏폼 공모
+- [[CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111065) | D-94 | text | 상금 1등 · USD 1,000
+  - 근거: 본문 없음(제목만). AI와 신학 논문 공모
+- [제1회 강서운전면허시험장 어린이 교통안전 창작 그림 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111064) | D-10 | image | 상금 대상 1명 · 10만원
+  - 근거: AI 언급 없음. 어린이 교통안전 그림 공모
+- [2026 계룡시 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111061) | D-20 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 계룡시 숏폼 공모
+- [2026 바이오미래포럼 대학생 서포터즈 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111054) | D-13 | text | 상금 1등 · -
+  - 근거: AI·바이오 분야 관심 대학생 서포터즈 모집 (AI 사용 규정 아님)
+- [제3회 철원오대쌀 가요제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111053) | D-11 | audio | 상금 1등 · 50만원
+  - 근거: AI 언급 없음. 가요제
+- [2026 똑똑! 수학탐험대 활용 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111052) | D-14 | video | 상금 대상 · 100만원
+  - 근거: AI 언급 없음. 수학탐험대 숏폼 공모
+- [2026 당진시 관광기념품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111050) | D-28 | image | 상금 최우수상 1명 · 300만원
+  - 근거: AI 관련 조항 없음. 관광기념품(공산품·공예품 등) 공모
+- [﻿﻿2026년 소상공인365 활용사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111044) | D-16 | video, text | 상금 최우수상 1명 · 60만원
+  - 근거: AI 언급 없음. 소상공인365 활용사례 공모
+- [제6회 원주DB 프로농구단 시티유니폼 디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111042) | D-18 | image | 상금 1등 · 300만원
+  - 근거: 본문 최소(제목·기간만) → 홈페이지 확인 필요. 유니폼 디자인 공모
+- [2026 경남교육 널리 알리기 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111037) | D-13 | video | 상금 1등 · 50만원
+  - 근거: 'AI미래교육'은 정책 주제 예시일 뿐 AI 활용 규정 아님
+- [2026 아주국제미술대전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111032) | D-55 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 국제 미술대전
+- [2026 부산광역시 유튜브 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111028) | D-29 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 부산 동백전 후기 영상 공모
+- [2026년 DMC 이노베이션 캠프 창업경진대회(DMC2026)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111020) | D-13 | software | 상금 대상 8명 · 3,800만원
+  - 근거: 메타버스 및 빅데이터/AI 서비스 분야 초기 창업기업 지원 (AI 활용 규정 아님)
+- [2026년 서민금융진흥원 대국민 혁신 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111017) | D-14 | text | 상금 대상 · 100만원
+  - 근거: 주제② 공공부문 인공지능 대전환 선택 시 AI·디지털 기반 작성
+- [[우체국물류지원단] 대국민 혁신 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111015) | D-14 | text | 상금 최우수 · 30만원
+  - 근거: ② AX 기반 업무혁신(AI) 분야 제시 (AI 활용 규정 아님)
+- [2026년 경북콘텐츠코리아랩 숏애니 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111014) | D-28 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 숏폼 애니메이션 공모
+- [제7회 KRISO 미래바다 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111011) | D-20 | text | 상금 대상 · 50만원
+  - 근거: 'AI·첨단 해양 ICT'가 주제 중 하나 (AI 활용 규정 아님)
+- [2027 아르플래닛 소속 아티스트 4기 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111001) | D-27 | audio | 상금 1등 · -
+  - 근거: AI 언급 없음. 클래식 연주자 모집
+- [제39회 빙그레 어린이 그림 잔치](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110999) | D-16 | image | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 어린이 그림 잔치 (오브제 사용 제외)
+- [강서구 개청 50주년 기념 슬로건 및 엠블럼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110993) | D-10 | image, text | 상금 1등 · 70만원
+  - 근거: AI 언급 없음. 슬로건·엠블럼 공모
+- [2027년 서리풀청년아트갤러리 시각예술 전시기획 공모](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110992) | D-14 | text, image | 상금 1등 · -
+  - 근거: AI 언급 없음. 전시기획 공모
+- [2026 나와 가로수(나가수)이야기 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110985) | D-11 | image | 상금 대상 1명 · 20만원
+  - 근거: AI 언급 없음. 가로수 사진 공모
+- [제1회 50년 후의 하늘 상상하기 그림 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110984) | D-25 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 어린이 그림 공모
+- [2026 전주 관광 홍보 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110983) | D-10 | video | 상금 1등 1명 · 100만원
+  - 근거: AI 언급 없음. 전주 관광 숏폼 공모
+- [2026 제5회 오픈소스 SW개발 경진대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110981) | D-18 | software | 상금 1등 · 30만원
+  - 근거: AI역량평가(AI기초·활용)가 시험 부문 중 하나 (AI 활용 규정 아님)
+- [디자인 잇 어워드 챌린지 2026](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110977) | D-32 | image | 상금 1등 · -
+  - 근거: 'AI & New Media'가 공모 분야 중 하나 (AI 활용 규정 아님)
+- [2026년 하반기 보은군 유튜브 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110966) | D-39 | video | 상금 최우수상 1명 · 50만원
+  - 근거: AI 언급 없음. 보은군 유튜브 영상 공모
+- [제29회 한뫼 이윤재선생 추모 전국 한글사랑 글짓기·그리기 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110959) | D-30 | text, image | 상금 1등 · -
+  - 근거: AI 언급 없음. 글짓기·그리기 공모
+- [2026 하남시안전체험장 신규 로고 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110944) | D-14 | image | 상금 최우수상 1명 · 50만원
+  - 근거: AI 언급 없음. 로고 디자인 공모
+- [[식품의약품안전처] 제2차 안전한 어린이 의약정보 영상 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110942) | D-13 | video | 상금 대상 1명 · 80만원
+  - 근거: AI 언급 없음. 어린이 의약정보 영상 공모
+- [2026년 제12회 김광석 나의 노래 다시부르기 대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110939) | D-8 | audio | 상금 대상 1명 · 500만원
+  - 근거: AI 언급 없음. 가창 대회
+- [2026년 제8회 인제전통목기 전국 목공예대전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110932) | D-15 | image | 상금 1등 · 500만원
+  - 근거: AI 언급 없음. 목공예대전
+- [제17회 화성시동요대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110927) | D-13 | audio | 상금 1등 · -
+  - 근거: AI 언급 없음. 동요대회
+- [2026년 제2회 김포시 반려동물 사진·영상 콘테스트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110926) | D-94 | image, video | 상금 최우수 1명 · 15만원
+  - 근거: AI 언급 없음. 반려동물 사진·영상 콘테스트
+- [나만 알고 싶은 광양 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110919) | D-14 | video | 상금 최우수상 1명 · 70만원
+  - 근거: AI 언급 없음. 광양 숏폼 공모
+- [동학농민혁명기념공원 SNS 사진·영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110917) | D-33 | image, video | 상금 대상 2명 · 50만원
+  - 근거: AI 언급 없음. 기념공원 SNS 사진·영상 공모
+- [2026 아름다운 지역어 멋글씨 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110913) | D-13 | image | 상금 금상 2명 · 15만원
+  - 근거: AI 언급 없음. 지역어 캘리그래피 공모
+- [2026년 하남시 SNS 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110912) | D-10 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 하남시 숏폼 공모
+- [2026 무브챌린지 대회 온라인 예선 및 오프라인 파이널](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110911) | D-32 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 신체활동 기록 대회
+- [제20회 월간 아이러브캐릭터 캐릭터 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110910) | D-33 | image | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 캐릭터 공모
+- [제20회 도봉 글짓기·그림그리기 대회 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110899) | D-8 | text, image | 상금 1등 · -
+  - 근거: AI 언급 없음. 현장 글짓기·그림 대회
+- [쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110895) | D-34 | software | 상금 대상 1명 · 500만원
+  - 근거: AI 언급 없음. 로블록스 게임 콘텐츠 제작
+- [2026 청송군 SNS 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110889) | D-49 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 청송군 숏폼 공모
+- [대구점자도서관 개관 30주년 및 제100주년 점자의 날 기념 축제 전국민참여사업 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110886) | D-25 | video | 상금 최우수상 1명 · 30만원
+  - 근거: AI 관련 조항 없음. 점자 100주년 숏폼 영상 공모
+- [2026 해양과학수사 사진, 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110882) | D-8 | image, text | 상금 최우수상 1명 · 20만원
+  - 근거: AI 언급 없음. 해양과학수사 사진·아이디어 공모
+- [2026 전남광주통합특별시 인권작품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110878) | D-25 | image, video | 상금 우수상 1명 · 150만원
+  - 근거: AI 언급 없음. 인권작품 공모
+- [2026 당진시 30초의 발견 공모전 (기간 및 내용 수정)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110874) | D-32 | video | 상금 최우수상 1명 · 140만원
+  - 근거: AI 언급 없음. 당진 숏폼 공모
+- [제2회 윈디 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110872) | D-81 | image | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 풍력 사진 공모
+- [2026 전북 청소년 평화통일 퍼포먼스 페스타](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110869) | D-13 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 청소년 퍼포먼스 페스타
+- [제6회 제주환경사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110867) | D-10 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 제2회 화성시 공공디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110858) | D-18 | image | 상금 최우수 · 500만원
+  - 근거: AI 언급 없음. 공공디자인 공모
+- [2026년 금연 정책제안 연구공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110857) | D-46 | text | 상금 대상 1명 · 100만원
+  - 근거: AI 생성물 등 저작권 책임은 응모자 (사용 허용/금지 규정 아님)
+- [2026년 장기요양요원 인식개선 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110833) | D-18 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 제1회 KIBE 융합디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110826) | D-94 | image | 상금 대상 1명 · 1,000만원
+  - 근거: AI 관련 조항 없음. 건축·조경 융합디자인 제안 공모
+- [2026년 제4회 서울아이 뛰움 체조 경연대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110822) | D-25 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 체조 경연대회
+- [2026 구로구 유튜브 쇼츠 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110819) | D-41 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 구로구 쇼츠 공모
+- [제12회 대한민국모던아트대상전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110816) | D-46 | image | 상금 1등 · 50만원
+  - 근거: AI 언급 없음. 미술대상전
+- [2026 미래작가상](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110812) | D-14 | image, video | 상금 1등 · -
+  - 근거: AI 언급 없음. 사진·영상 작가 프로그램
+- [제7회 한의약 홍보 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110802) | D-13 | video | 상금 대상 1명 · 300만원
+  - 근거: AI 언급 없음. 한의약 홍보 영상 공모
+- [부천을 굿즈하다 관광기념품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110798) | D-18 | image | 상금 대상 1명 · 150만원
+  - 근거: AI 언급 없음. 관광기념품 공모
+- [2026 K-디자인콘서트 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110788) | D-12 | image, text | 상금 1등 · 200만원
+  - 근거: AI 언급 없음. 사회문제 해결 디자인 공모
+- [2026 제3회 가평자라섬 단편 영화제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110787) | D-33 | video | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제3회 국가지식정보 통합플랫폼 활용 우수사례 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110771) | D-39 | text, image, video | 상금 대상 2명 · 100만원
+  - 근거: AI 언급 없음. 플랫폼 활용 우수사례 공모
+- [2026년 경상북도 탄소중립 미술 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110763) | D-10 | image | 상금 최우수상 1명 · 50만원
+  - 근거: AI 언급 없음. 탄소중립 미술 공모
+- [2026년 경상북도 탄소중립 실천 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110762) | D-10 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 탄소중립 숏폼 공모
+- [2026 이천시 숏폼 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110759) | D-25 | video | 상금 대상 1명 · 120만원
+  - 근거: AI 언급 없음. 이천시 숏폼 공모
+- [제19회 어린이 안전문화 그리기 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110756) | D-18 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 어린이 그림 공모
+- [2026 노벨피아 우주최강 웹소설 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110744) | D-31 | text | 상금 대상 1명 · 5,000만원
+  - 근거: AI 관련 조항 없음. 웹소설 연재 공모(본문에 AI 언급 없음)
+- [대한불교조계종 및 사찰 콘텐츠 기반  문화상품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110723) | D-25 | image | 상금 대상 1명 · 600만원
+  - 근거: AI 언급 없음. 사찰 문화상품 공모
+- [2026 추계학술대회 대학생 ERP 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110710) | D-8 | text | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. ERP 아이디어 공모
+- [2026년 제41회 디자인 & 일러스트레이션 국제공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110709) | D-39 | image, video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 디자인·일러스트 국제공모
+- [2026 한중 청년 공공외교 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110688) | D-22 | video | 상금 1등 · 30만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 서대문구 숏폼 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110654) | D-11 | video | 상금 대상 1명 · 150만원
+  - 근거: AI 언급 없음. 서대문구 숏폼 공모
+- [송도컨벤시아 여행 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110652) | D-20 | image, video | 상금 1등 1명 · 30만원
+  - 근거: AI 언급 없음. 인스타그램 여행 챌린지
+- [2026년 여수시 청렴 실천 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110648) | D-9 | video | 상금 최우수 1명 · 70만원
+  - 근거: AI 언급 없음. 청렴 숏폼 공모
+- [가족 대항 새로보미 업사이클링 작품 경진대회(제4회 김제 자원순환 새로보미 축제 자원순환 대회)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110636) | D-18 | video | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 업사이클링 댄스 퍼포먼스
+- [2026 어린이조선일보 글로벌 미술대회&루브르 박물관 전시대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110620) | D-42 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 글로벌 미술대회
+- [보험산업 발전을 위한 제10회 대학생 아이디어 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110614) | D-13 | text | 상금 대상 1명 · 300만원
+  - 근거: '기술·정보신뢰 리스크(AI, 개인정보, 해킹)'가 주제 중 하나 (AI 사용 규정 아님)
+- [제 3회 서민금융진흥원 숏폼 영상제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110602) | D-20 | video | 상금 1등 1명 · 50만원
+  - 근거: AI 언급 없음. 서민금융 숏폼 영상제
+- [한국교원대 한국근대교육사연구센터 2026년 동영상 공모전 (학교의 어제와 오늘)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110601) | D-14 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 근대교육사 동영상 공모
+- [제1회 숏폼 크리에이터 챌린지 2026](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110598) | D-9 | video | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 고등학생 숏폼 챌린지
+- [제17회 현대 주얼리 디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110591) | D-46 | image | 상금 1등 · 300만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [명지대학교 제 21회 MUFF 영상제 (기억)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110586) | D-20 | video | 상금 대상 · 100만원
+  - 근거: AI 언급 없음. 대학 영상제
+- [2026 경기도한의사회 한의약 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110570) | D-81 | video | 상금 대상 1명 · 300만원
+  - 근거: AI 언급 없음. 한의약 콘텐츠 영상 공모
+- [2026 의정부시 Sign-Up 간판 디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110566) | D-55 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 간판 디자인 공모
+- [2026 뇌전증 인식개선 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110549) | D-58 | text, image, video | 상금 1등 · -
+  - 근거: AI 언급 없음. 인식개선 공모(글/그림/기타)
+- [제36회 가톨릭 미디어 콘텐츠 대상 공모](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110541) | D-17 | video | 상금 1등 · 500만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제3회 작은 영화제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110501) | D-17 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 작은 영화제
+- [[한성대학교 방송국 HBS] 제36회 방송제 참가자 모집 안내](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110496) | D-33 | video | 상금 대상 · 50만원
+  - 근거: AI 언급 없음. 대학 방송제 영상 공모
+- [2026 사이버안보 논문 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110491) | D-14 | text | 상금 대상 3명 · 600만원
+  - 근거: 기술 분야에 'AI 보안' 포함 (주제일 뿐 AI 사용 규정 아님)
+- [2026 경남 3D 웹툰배경 활용 단편웹툰 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110490) | D-10 | image | 상금 1등 · 500만원
+  - 근거: AI 언급 없음. 3D 웹툰배경 활용 공모
+- [제3회 대구소방-iM뱅크 청소년 안전 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110484) | D-18 | video | 상금 최우수 1명 · 50만원
+  - 근거: AI 언급 없음. 청소년 안전 숏폼 공모
+- [[전북특별자치도 소방본부] 제2회 소방 안전 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110482) | D-21 | video | 상금 최우수상 1명 · 100만원
+  - 근거: AI 언급 없음. 소방 안전 영상 공모
+- [YK건기•존디어 트랙터로 활기찬 농촌 전국 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110401) | D-40 | image | 상금 최우수상 2명 · 100만원
+  - 근거: AI 언급 없음. 농촌 사진 공모
+- [[전북특별자치도교육청] 2026 교육가족 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110397) | D-24 | text, video, image | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 교육가족 공모전
+- [컷 양산 홍보영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110365) | D-32 | video | 상금 대상 1명 · 300만원
+  - 근거: AI 언급 없음. 양산 홍보영상 공모
+- [제3회 긍정의 힘 마라톤](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110362) | D-65 | - | 상금 1등 · -
+  - 근거: 마라톤 대회 (공모전 아님)
+- [2026 코리아시즌 레이스](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110359) | D-79 | - | 상금 1등 · -
+  - 근거: 마라톤 대회 (공모전 아님)
+- [2026년 청도군 관광&맛집 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110356) | D-32 | video | 상금 최우수상 1명 · 100만원
+  - 근거: AI 언급 없음. 청도 관광 숏폼 공모
+- [[농촌진흥청] 2026 농업‧농촌 스토리텔링 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110326) | D-16 | text, image | 상금 1등 · 100만원
+  - 근거: AI 언급 없음. 농업 스토리텔링 공모
+- [[KMR] 2026 제 3회 한국경영인증원 지식 서비스 숏폼 공모전 (수정)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110308) | D-13 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 지식 서비스 숏폼 공모
+- [제1회 한아전 게임 시나리오·그래픽 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110305) | D-63 | image, text | 상금 1등 · 30만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제 2회 아담국제영화제 작품 공모](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110280) | D-63 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 국제 단편영화제
+- [제27회 효녀심청 전국 어린이 예술 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110278) | D-18 | text, image | 상금 1등 · -
+  - 근거: AI 언급 없음. 어린이 예술 공모
+- [pixiv 한국 학생 일러스트 공모전 2026](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110271) | D-17 | image | 상금 1등 · 100만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [제38회 2026 - 전국공모 전국 하남 이성산성 미술대전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110244) | D-11 | image | 상금 1등 · 500만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2027 제6회 BIKAF IN 루브르 미술 공모전 & 루브르 국제전시회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110235) | D-32 | image | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 제7회 한국드로잉 공모대전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110228) | D-46 | image | 상금 1등 · 100만원
+  - 근거: AI 언급 없음. 색연필화·연필화 공모
+- [2026 AI·디지털 네이티브 토론대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110218) | D-24 | text | 상금 1등 · 300만원
+  - 근거: 'AI 기본사회 사회적 이슈'가 토론 주제 (AI 사용 규정 아님)
+- [2026년 SPOT IN JEONJU 청년 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110195) | D-18 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 전주 촬영지 숏폼 공모
+- [2026 IDAWARD 제14회 대구인쇄출판 디자인공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110193) | D-16 | image | 상금 대상 1명 · 300만원
+  - 근거: AI 언급 없음. 인쇄·출판 디자인 공모 (원본 AI 파일=일러스트)
+- [7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110179) | D-109 | video | 상금 1등 · USD 5,000
+  - 근거: AI 언급 없음. 국제 단편영화 공모
+- [제 18회 대한민국청소년밀알영상제](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110153) | D-18 | video | 상금 대상 1명 · 20만원
+  - 근거: AI 언급 없음. 청소년 영상제
+- [해양환경공단 2026 해양폐기물 자원순환대국민 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110126) | D-16 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 해양폐기물 자원순환 영상 공모
+- [제5회 서울영상고 SVM 전국 중학생 작품 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110097) | D-14 | video, image | 상금 대상 1명 · 30만원
+  - 근거: AI 언급 없음. 중학생 작품 공모
+- [2026년 품바재생예술체험촌 새활용·리폼 콘테스트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110095) | D-49 | image | 상금 금상 1명 · 30만원
+  - 근거: AI 언급 없음(실물 새활용 작품). 표절·합성 작품 불가
+- [2026년 부산진구 전포지역 커피산업 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110089) | D-33 | video | 상금 대상 · 100만원
+  - 근거: AI 언급 없음. 커피산업 숏폼 공모
+- [2026년 20회 국방홍보 영상공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110075) | D-25 | video | 상금 1등 · 300만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026년 경산시 숏폼 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109945) | D-32 | video | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 경산시 숏폼 공모
+- [제3회 DH사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109887) | D-20 | image | 상금 우수상 2명 · 100만원
+  - 근거: AI 언급 없음. 풍경 사진 공모
+- [2026 하남 미사 호수 에너지런](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109818) | D-59 | - | 상금 1등 · -
+  - 근거: 마라톤 대회 (공모전 아님)
+- [몽드아트어워드](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109752) | D-32 | image | 상금 대상 1명 · 300만원
+  - 근거: AI 언급 없음. 국제 미술 공모
+- [[국제공모전] IN:SENSE Design Award 2027 (참가비 있음)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109741) | D-125 | image, software | 상금 1등 · -
+  - 근거: 공모 분야에 'Interaction & AI'(AI 기반 감각 경험) 포함 (AI 사용 규정 아님)
+- [[제2회] 덴티미 클리너 115 루틴 챌린지 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109733) | D-33 | video | 상금 1등 · 100만원
+  - 근거: AI 관련 조항 없음. 세척 루틴 숏폼 영상 공모(주제곡 BGM 활용)
+- [7th Da-Ho Award Asian International Short Film Competition(단편영화)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109728) | D-125 | video | 상금 1등 · USD 5,000
+  - 근거: AI 언급 없음. 국제 단편영화 공모
+- [인스타그램 콘텐츠 공모전 Flip](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109675) | D-17 | video, image | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 인스타그램 콘텐츠 공모
+- [제12회 섬 여행 영상공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109657) | D-12 | video | 상금 대상 1명 · 500만원
+  - 근거: AI 언급 없음. 섬 여행 영상 공모
+- [제1회 대한민국 국가어항·어촌 사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109655) | D-25 | image | 상금 대상 1명 · 200만원
+  - 근거: AI 언급 없음. 국가어항·어촌 사진 공모
+- [2026 제62회 경기건축대전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109613) | D-30 | image, text | 상금 대상 1명 · 700만원
+  - 근거: 주제 설명에 AI·첨단기술 언급 (AI 사용 규정 아님). 건축 공모
+- [2027 청주국제공예공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109564) | D-219 | image | 상금 대상 1명 · 6,000만원
+  - 근거: AI 언급 없음. 국제 공예 공모
+- [2026 디자인 크리에이션 챌린지(DCC) 3D프린팅 제품디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109516) | D-34 | image, software | 상금 대상 · 500만원
+  - 근거: AI 언급 없음. 3D프린팅 제품디자인 공모
+- [2026 제4회 전국 청소년 연극영상제 (별모음 ZIP)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109486) | D-9 | video | 상금 대상 · 70만원
+  - 근거: AI 언급 없음. 청소년 연극·영상제
+- [제8회 한국노총 난생처음 노동공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109388) | D-13 | video, text, image | 상금 1등 1명 · 350만원
+  - 근거: AI 언급 없음. 노동 공모전(동영상/디카시/포스터)
+- [세종사이버대학교 정보보호학과 나를 지키는 1분 디지털 호신술 챌린지 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109368) | D-94 | video | 상금 최우수상 1명 · 50만원
+  - 근거: AI 언급 없음. 정보보호 숏폼 챌린지
+- [2026 신문홍보 만화·영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109343) | D-12 | image, video | 상금 대상 4명 · 100만원
+  - 근거: AI 언급 없음. 신문홍보 만화·영상 공모
+- [[KGTA] 제15회 국제 주얼리 아트 콘테스트](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109303) | D-30 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 주얼리 아트 콘테스트
+- [우리들의 문화 영웅 차상찬! 제2회 인스타툰 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109267) | D-8 | image | 상금 최우수 1명 · 100만원
+  - 근거: AI 언급 없음. 인스타툰 공모
+- [2026 농촌여행 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109250) | D-20 | video | 상금 1등 · 300만원
+  - 근거: AI 언급 없음. 농촌여행 숏폼 공모
+- [제1회 경상남도 드론 영상 및 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109225) | D-32 | video, image | 상금 1등 · -
+  - 근거: AI 언급 없음. 드론 영상·사진 공모
+- [제9회 국립김해박물관 가야 웹툰 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109221) | D-20 | image | 상금 금상 1명 · 200만원
+  - 근거: AI 언급 없음. 가야 웹툰 공모
+- [2026 거리버스킹 천안·아산 유스킹 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109157) | D-21 | - | 상금 1등 · -
+  - 근거: 공연 참가 모집 (공모전 아님)
+- [DIDA 2026 대구국제디자인어워드 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109120) | D-21 | image | 상금 대상 1명 · 500만원
+  - 근거: AI 언급 없음. 국제 디자인 어워드
+- [(주)한국전기신문 제11회 전기사랑 스피치대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109080) | D-13 | text | 상금 대상 1명 · 300만원
+  - 근거: '전력산업 AI를 접목한 송·변전 기술 아이디어'가 주제 중 하나 (AI 사용 규정 아님)
+- [제4회 부산 중구 SNS 숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109067) | D-13 | video | 상금 대상 1명 · 100만원
+  - 근거: AI 언급 없음. 중구 먹거리 숏폼 공모
+- [2026 하남 어텀 패밀리 마라톤](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109056) | D-16 | - | 상금 1등 · -
+  - 근거: 마라톤 대회 (공모전 아님)
+- [제18회 예스코 가스안전 포스터 · 카툰 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108888) | D-10 | image | 상금 대상 1명 · 50만원
+  - 근거: AI 언급 없음. 가스안전 포스터 공모
+- [2026 진주시 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108756) | D-32 | video | 상금 최우수상 1명 · 200만원
+  - 근거: AI 언급 없음. 진주시 영상 공모
+- [2026 무주관광 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108360) | D-32 | image | 상금 1등 · 200만원
+  - 근거: AI 언급 없음. 무주관광 사진 공모
+- [2026년 쇼츠 영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108260) | D-32 | video | 상금 최우수상 1명 · 100만원
+  - 근거: AI 언급 없음. 대구 중구 쇼츠 공모
+- [2026 제27회 대한민국 전통의상 공모대제전 참가자 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108151) | D-8 | image | 상금 1등 · 200만원
+  - 근거: AI 언급 없음. 전통의상(한복) 공모
+- [[넥슨] 메이플스토리 글로벌 개발 콘테스트 (MapleStory Global Creator Challenge)](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107956) | D-9 | software | 상금 1등 · -
+  - 근거: '월드 개발을 도와줄 AI Toolkit 기능 지원' (개발 지원 도구, AI 사용 규정 아님)
+- [제 4회 청소년 과학 오디션](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107871) | D-32 | text, video | 상금 최우수상 2명 · 100만원
+  - 근거: 'AI 로봇을 활용한 분리수거'가 파일명 예시일 뿐 (AI 사용 규정 아님)
+- [제3회 울산관광 전국사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107848) | D-9 | image | 상금 1등 · 300만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026 군위군 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107569) | D-32 | image | 상금 1등 · 120만원
+  - 근거: AI 언급 없음. 군위군 사진 공모
+- [2026년 템플스테이·사찰음식·불교문화 콘텐츠 논문공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107265) | D-18 | text | 상금 대상 2명 · 300만원
+  - 근거: 세부 주제에 '#AI #디지털' 포함 (AI 사용 규정 아님). 논문 공모
+- [2026년 대전관광사진 전국공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107141) | D-39 | image | 상금 1등 · 200만원
+  - 근거: AI 언급 없음. 대전 관광 사진 공모
+- [2026 예천홍보 영상·숏폼 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106719) | D-46 | video | 상금 우수 8명 · 500만원
+  - 근거: AI 언급 없음. 예천 홍보 영상 공모
+- [제15회 달성군 전국 사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106432) | D-10 | image | 상금 1등 · 300만원
+  - 근거: 본문에 내용 없음(제목만) → 홈페이지 확인 필요
+- [2026년 통영관광개발공사 제5회 통영관광 전국사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106373) | D-63 | image | 상금 금상 1명 · 200만원
+  - 근거: AI 언급 없음. 통영관광 사진 공모
+- [2026 영광관광 사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105895) | D-32 | image | 상금 1등 · 200만원
+  - 근거: AI 언급 없음. 영광관광 사진 공모
+- [제2회 생활 속 숨어있는 수학 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105316) | D-94 | image | 상금 1등 · -
+  - 근거: AI 언급 없음. 수학 사진 공모
+- [2026 예산군  숏폼 콘텐츠 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104981) | D-39 | video | 상금 최우수상 1명 · 300만원
+  - 근거: AI 언급 없음. 예산군 숏폼 공모
+- [2026 제4회 충청남도 드론 영상 및 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715) | D-32 | video, image | 상금 대상 1명 · 250만원
+  - 근거: AI 언급 없음. 드론 영상·사진 공모
+- [2026 정읍시 관광 유튜브 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104634) | D-49 | video | 상금 1등 · -
+  - 근거: AI 언급 없음. 관광 유튜브 공모
+- [파킨슨 환자를 위한 더멋진 AI 리빙랩 프로젝트 청년 서포터즈 모집](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=103817) | D-69 | - | 상금 1등 · -
+  - 근거: 본문에 내용 없음(제목만). AI 리빙랩 서포터즈 모집
+
+## AI 금지 (14)
+- [2026 팬트리픽 마스코트 일러스트 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111293) | D-41 | image | 상금 대상 1명 · 100만원
+  - 근거: 생성형 AI로 제작한 이미지 또는 생성 결과물을 포함한 작품은 출품 불가
+- [제4회 여강전국사진공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111257) | D-58 | image | 상금 1등 · 150만원
+  - 근거: 합성·조작·변형된 사진 제외 / 출품자는 반드시 본인이 직접 촬영한 사진이어야 함
+- [한국공항보안 어린이 그림그리기 대회](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111248) | D-25 | image | 상금 대상 1명 · 25만원
+  - 근거: 심사제외: AI·입체물 활용 작품 제외 / 어린이 본인이 직접 그린 미발표 순수 창작물
+- [2026년 초등학생 달빛어린이병원 그림 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111175) | D-32 | image | 상금 대상 1명 · 50만원
+  - 근거: 형식: 물감·색연필·크레파스 등 자유 *AI 등 디지털 도구 사용 불가 / 입체 재료 부착물 불가
+- [제1회 송강문학 전국 시(詩) 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111067) | D-16 | text | 상금 대상 1명 · 200만원
+  - 근거: 표절, 기발표작, 타인 작품 모방, AI 생성 작품 등은 선정 또는 수상이 취소될 수 있습니다
+- [OG9 DIY CONTEST BY GEM](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110933) | D-17 | image | 상금 3등 1명 · 10만원
+  - 근거: 합성사진 또는 AI로 생성된 이미지를 제출한 경우 심사에서 제외
+- [2026 제1회 성정1동 마을풍경 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110828) | D-11 | image | 상금 대상 1명 · 50만원
+  - 근거: AI 활용, 합성사진 불가, 메타정보 없는 작품 불인정
+- [제50회 전국 초·중학생 발명글짓기·만화 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110651) | D-10 | text, image | 상금 1등 · -
+  - 근거: AI 프로그램으로 생성한 작품은 출품 불가
+- [알라딘 디스커버 프로젝트 - 그만둔 이야기 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110330) | D-33 | text | 상금 대상 1명 · 500만원
+  - 근거: 표절·무단 활용 및 생성형 AI를 활용해 작성한 작품은 심사에서 제외
+- [2026 MPED X KORUS 국제 아트앤디자인 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110137) | D-44 | image | 상금 2등 · 1만원
+  - 근거: AI로 생성한 작품은 출품할 수 없습니다 / AI는 자료 조사·아이디어 구상 목적으로만 사용 가능
+- [광둥의 매력을 느껴보세요 광둥 여행 스팟 인증 챌린지](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110078) | D-17 | image | 상금 1등 · 100만원
+  - 근거: AI 생성 이미지 및 합성 사진은 응모 불가 / 본인이 직접 촬영한 사진만
+- [제 2회 창비교육 동화 공모전 이야기친구상](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109126) | D-63 | text | 상금 대상 1명 · 1,500만원
+  - 근거: AI 제작 작품, 표절 작품은 응모할 수 없습니다
+- [제8회 행복북구 사진 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107125) | D-32 | image | 상금 1등 · 200만원
+  - 근거: AI 생성 이미지, 합성 사진, 과도한 보정으로 실물과 현저히 다른 작품은 심사에서 제외
+- [팔공산 케이블카 Four Seasons 사진영상 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104904) | D-64 | image, video | 상금 대상 1명 · 100만원
+  - 근거: 과도한 CG, 합성, AI 생성 영상은 심사 대상에서 제외 / 컴퓨터 그래픽 및 합성하지 않은 원본 제출

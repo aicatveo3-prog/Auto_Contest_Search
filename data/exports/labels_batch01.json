@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-09-29T09:40:00+09:00",
+  "analyzed_by": "opencode agent (in-chat, no API)",
+  "labels": [
+    {
+      "ix": 111314, "ai_policy": "unclear", "ai_modality": ["software"],
+      "ai_evidence": "AI 언급 없음. 태양광 집합자원 최적화·발전량 예측 알고리즘 개발 경진대회",
+      "source_level": "L0", "confidence": 0.7, "fit_score": 0.3,
+      "sum_task": "태양광 발전소를 2개 집합자원(VPP)으로 최적 구성 + 하루 전 발전량 예측 알고리즘 개발",
+      "sum_topic": "집합자원 구성 최적화 및 하루전 발전량 예측 모델 개발",
+      "sum_format": "알고리즘 개발 · 온라인 발표 평가(상위 7팀)",
+      "sum_target": "전국 대학(원)생 / 개인 또는 최대 5명 팀",
+      "sum_submit": "홈페이지 접수 (dataen.ai/challenge)",
+      "sum_notes": "데이터 배포 10.1 · 대회기간 11.2~11.13 · 본선 부산 BPEX"
+    },
+    {
+      "ix": 111313, "ai_policy": "unclear", "ai_modality": ["image"],
+      "ai_evidence": "AI 언급 없음. 캘리그라피(손글씨) 작품 공모",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.05,
+      "sum_task": "윤동주·이해인 시 중 1편을 붓/펜 캘리그라피로 제작 (방문·우편 접수)",
+      "sum_topic": "윤동주·이해인 시 중 1편 선택 (문장·글자 수 자유)",
+      "sum_format": "붓 캘리그라피 / 펜 캘리그라피 · 작품 뒷면에 인적사항 기재",
+      "sum_target": "제한없음",
+      "sum_submit": "방문·우편 접수 (경기도 의정부시 서부로 545 창업관 651호)",
+      "sum_notes": "출품료 있음(붓 5만원~, 펜 3만원) · 우편은 11.10 소인분까지"
+    },
+    {
+      "ix": 111311, "ai_policy": "unclear", "ai_modality": ["image"],
+      "ai_evidence": "AI 언급 없음. 일상 속 미소 사진 공모",
+      "source_level": "L0", "confidence": 0.7, "fit_score": 0.15,
+      "sum_task": "일상 속 미소의 순간을 담은 사진 + 사연 제출",
+      "sum_topic": "일상 속 미소의 순간",
+      "sum_format": "JPG/JPEG/PNG/HEIC · 1MB 이상 권장 · 긴 면 4,000px 이상",
+      "sum_target": "대한민국 거주 내·외국인 누구나 (미성년자는 보호자 동의)",
+      "sum_submit": "온라인 지원 (vo.la/cpXry0b)",
+      "sum_notes": "총 50개 작품 선정"
+    },
+    {
+      "ix": 111310, "ai_policy": "unclear", "ai_modality": ["text"],
+      "ai_evidence": "AI 언급 없음. 대학생 기자단(서포터즈) 모집",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.1,
+      "sum_task": "6개월간 로컬 관광 취재 및 콘텐츠(기사·카드뉴스·동영상) 작성",
+      "sum_topic": "대한민국 로컬 관광 취재 (형식 자유)",
+      "sum_format": "주 1회 미션기사 / 월 2회 자유기사 · 기사·카드뉴스·동영상",
+      "sum_target": "전국 대학생 · 해외 유학생 · 외국인 대학생",
+      "sum_submit": "서류접수 (스마트관광신문)",
+      "sum_notes": "온라인 발대식 필참(10.16) · 기자증·경력증명서 발급"
+    },
+    {
+      "ix": 111299, "ai_policy": "must", "ai_modality": ["text"],
+      "ai_evidence": "AI를 활용 및 데이터 분석을 기반으로 시정 발전 아이디어 제안",
+      "source_level": "L0", "confidence": 0.85, "fit_score": 0.5,
+      "sum_task": "AI 활용·데이터 분석 기반으로 제천시 시정 발전 아이디어 제안",
+      "sum_topic": "도시발전·지역경제 등 제천시 현안 해결 자유 주제",
+      "sum_format": "아이디어 제안 (파일 형식 미기재)",
+      "sum_target": "제천시에 관심 있는 전 국민",
+      "sum_submit": "이메일 jjh1286@korea.kr (제목: [제천시 공모전]개인(팀)명_아이디어명)",
+      "sum_notes": "-"
+    },
+    {
+      "ix": 111298, "ai_policy": "unclear", "ai_modality": ["image", "video"],
+      "ai_evidence": "AI 언급 없음. 관광콘텐츠랩 우수사례 공모",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.15,
+      "sum_task": "한국관광콘텐츠랩 관광이미지/영상을 활용한 우수사례 제출",
+      "sum_topic": "관광 콘텐츠 활용 성과 — 플랫폼·서비스/마케팅·홍보/콘텐츠 창작·미디어/교육·학술·공공",
+      "sum_format": "접수 폼 제출 (형식 미기재)",
+      "sum_target": "콘텐츠랩 관광이미지/영상 활용 경험이 있는 누구나 (OpenAPI 인증키 활용 사례 제외)",
+      "sum_submit": "접수 폼 (api.visitkorea.or.kr)",
+      "sum_notes": "OpenAPI 운영계정 활용 사례는 제외"
+    },
+    {
+      "ix": 111297, "ai_policy": "unclear", "ai_modality": ["text"],
+      "ai_evidence": "본문에 내용 없음(제목만) → 홈페이지 확인 필요",
+      "source_level": "L0", "confidence": 0.3, "fit_score": 0.05,
+      "sum_task": null, "sum_topic": null, "sum_format": null,
+      "sum_target": "일반인, 대학생", "sum_submit": null, "sum_notes": null
+    },
+    {
+      "ix": 111296, "ai_policy": "unclear", "ai_modality": ["text"],
+      "ai_evidence": "AI 언급 없음. 실패 경험 발표 공모",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.05,
+      "sum_task": "실패 사례(배경·과정·결과·교훈)를 신청서에 작성해 제출 → 본선 진출자는 발표",
+      "sum_topic": "나의 실패 이야기 (시험·진학·취업·창업·관계·습관 등)",
+      "sum_format": "신청서 작성 · 본선은 포항 러블랑에서 발표(11.11)",
+      "sum_target": "실패 경험을 가진 누구나 (선착순 100명)",
+      "sum_submit": "구글폼 (forms.gle/8QCSaguvMiDcKNho7)",
+      "sum_notes": "선착순 100명"
+    },
+    {
+      "ix": 111293, "ai_policy": "prohibited", "ai_modality": ["image"],
+      "ai_evidence": "생성형 AI로 제작한 이미지 또는 생성 결과물을 포함한 작품은 출품 불가",
+      "source_level": "L0", "confidence": 0.95, "fit_score": 0.2,
+      "sum_task": "마스코트 '스노우'·'잉크'를 사람으로 의인화한 캐릭터 일러스트 제작",
+      "sum_topic": "팬트리픽 마스코트 의인화 (의상·성별·포즈·표정 자유)",
+      "sum_format": "A3 200dpi 이상 / 장변 3,300px 이상 권장 / JPG·PNG 권장",
+      "sum_target": "만 15세 이상 개인 (1인 최대 3작품, 수상 1건)",
+      "sum_submit": "구글폼 (forms.gle/U4dzyNYjkdm7koWC8)",
+      "sum_notes": "생성형 AI 제작물 출품 불가 · 수상 후보는 원본 파일 요청 가능"
+    },
+    {
+      "ix": 111289, "ai_policy": "unclear", "ai_modality": ["text"],
+      "ai_evidence": "AI 언급 없음. 자격증 활용 우수사례 공모",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.05,
+      "sum_task": "자격증 취득·활용을 통한 변화 사례 작성·제출",
+      "sum_topic": "자격증 취득·활용으로 변화를 이룬 사례 (취업·진학·승진·자기개발 등)",
+      "sum_format": "참가신청서 양식 (이메일)",
+      "sum_target": "대한상공회의소 국가/민간자격 취득자",
+      "sum_submit": "이메일 contest@korcham.net",
+      "sum_notes": "마감 후 수정·추가접수 불가"
+    },
+    {
+      "ix": 111286, "ai_policy": "unclear", "ai_modality": ["audio", "video"],
+      "ai_evidence": "AI 언급 없음. 창작랩 경연대회",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.25,
+      "sum_task": "평화통일·통일한국 주제 창작랩 영상 제출 → 본선 무대",
+      "sum_topic": "평화통일과 통일한국을 주제로 한 창작랩",
+      "sum_format": "창작랩 영상 (가로촬영, 1GB 이하)",
+      "sum_target": "만 9세~만 24세 (2001.9.23 이후 출생)",
+      "sum_submit": "공식포스터 QR 접속 신청",
+      "sum_notes": "본선 11.14 광양커뮤니티센터 · 본선 진출자 KTX 왕복 경비 지급"
+    },
+    {
+      "ix": 111285, "ai_policy": "unclear", "ai_modality": ["text", "video"],
+      "ai_evidence": "AI 언급 없음. 슬로건·숏폼·정책/신기술 아이디어 공모",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.2,
+      "sum_task": "슬로건 / 숏폼 / 정책 제안 / 신기술 제안 아이디어 중 선택",
+      "sum_topic": "승강기산업 진흥, 승강기 안전문화 확산",
+      "sum_format": "슬로건 30자 이내 · 숏폼 1분 이내 1080p · 아이디어 A4 2p (HWP/PDF)",
+      "sum_target": "전 국민 누구나 (개인/팀 최대 3인)",
+      "sum_submit": "이메일 sig9205@kola.or.kr",
+      "sum_notes": "분야별 세부양식은 첨부 공고문 참조"
+    },
+    {
+      "ix": 111284, "ai_policy": "unclear", "ai_modality": ["image"],
+      "ai_evidence": "AI 언급 없음. 손글씨 페스타",
+      "source_level": "L0", "confidence": 0.6, "fit_score": 0.05,
+      "sum_task": "손글씨 작품 제출 (아동부/청소년부/성인부)",
+      "sum_topic": "손으로 쓰는 문화 — 개성이 담긴 손글씨",
+      "sum_format": "형식 미기재",
+      "sum_target": "누구나 (아동부/청소년부/성인부)",
+      "sum_submit": "홈페이지 (orom.co.kr/writing)",
+      "sum_notes": "정형화된 예쁜 글씨보다 개성에 가치"
+    },
+    {
+      "ix": 111283, "ai_policy": "unclear", "ai_modality": ["text"],
+      "ai_evidence": "AI 언급 없음. 과학기술 활용 지역 현안 해결 아이디어 공모",
+      "source_level": "L0", "confidence": 0.7, "fit_score": 0.2,
+      "sum_task": "과학기술을 활용한 지역 현안 해결 솔루션 아이디어 제안",
+      "sum_topic": "과학기술로 해결이 필요한 지역의 현안",
+      "sum_format": "형식 미기재",
+      "sum_target": "지역 문제를 해결하려는 국민 누구나 (거주지 제한 없음)",
+      "sum_submit": "홈페이지 (kistep.re.kr)",
+      "sum_notes": "선정 시 지역 연구개발지원단 매칭 지원"
+    },
+    {
+      "ix": 111279, "ai_policy": "must", "ai_modality": ["image", "video"],
+      "ai_evidence": "생성형 AI를 활용하여 창의적으로 재해석한 이미지 또는 30초 이내 영상 작품 출품",
+      "source_level": "L0", "confidence": 0.95, "fit_score": 0.9,
+      "sum_task": "충북 과학문화 활동을 생성형 AI로 재해석한 이미지 또는 30초 이내 영상 제작",
+      "sum_topic": "AI를 활용한 충북 도내 다양한 과학문화 활동",
+      "sum_format": "AI 이미지 / AI 영상(숏폼, 30초 이내)",
+      "sum_target": "청소년부(충북 도내 초·중·고) / 일반부(충북 도민·도내 대학생)",
+      "sum_submit": "홈페이지 (csi.chungbuk.kr)",
+      "sum_notes": "-"
+    }
+  ]
+}

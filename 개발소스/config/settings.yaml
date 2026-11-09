@@ -1,0 +1,24 @@
+wevity:
+  base_url: "https://www.wevity.com/"
+  max_pages: 100
+  http:
+    delay_seconds: 1.2
+    timeout: 25
+    retries: 3
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+
+collect:
+  modes: ["ing", "future"]
+  categories:
+    - { name: "전체", cidx: "" }
+    # - { name: "영상/UCC/사진", cidx: "10" }
+    # - { name: "웹/모바일/IT", cidx: "20" }
+    # - { name: "게임/소프트웨어", cidx: "21" }
+    # - { name: "기획/아이디어", cidx: "1" }
+    # - { name: "예체능/미술/음악", cidx: "26" }
+    # - { name: "광고/마케팅", cidx: "2" }
+
+storage:
+  db_path: "data/contests.db"
+  raw_dir: "data/raw"
+  export_dir: "data/exports"

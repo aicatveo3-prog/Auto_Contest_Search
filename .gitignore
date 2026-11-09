@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller artifacts
+개발소스/build/
+개발소스/dist/
+
+# backups
+*.bak
+
+# OS / editor
+Thumbs.db
+desktop.ini

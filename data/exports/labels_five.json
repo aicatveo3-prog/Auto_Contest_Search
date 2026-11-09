@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-09-29T00:20:00+09:00",
+  "analyzed_by": "opencode agent (in-chat, no API)",
+  "labels": [
+    {
+      "ix": 111273,
+      "ai_policy": "must",
+      "ai_modality": ["video"],
+      "ai_evidence": "Seedance 2.0/2.5 AI 시리즈 제작지원 / '이 영상은 생성형 AI 기반으로 만들어졌습니다' 필수 표기",
+      "source_level": "L0",
+      "confidence": 0.95,
+      "fit_score": 0.95,
+      "sum_task": "AI로 시리즈 프롤로그(티저) 영상 1편 + 작품 설명(로그라인·시놉시스) 제작",
+      "sum_topic": "연재할 시리즈의 세계관·톤·주인공을 1분 안에 보여주는 프롤로그 (자유 주제)",
+      "sum_format": "16:9 · 30초 이상~1분 미만 · MP4 · 1080p 이상 · 1GB 이하",
+      "sum_target": "만 14세 이상 누구나(개인/팀) · PASS 본인인증 필수 · 1인(팀)당 1작품",
+      "sum_submit": "AI-Kive(aikive.com) 공모전 페이지에서 영상 업로드 + 작품 설명 작성",
+      "sum_notes": "Seedance 2.0/2.5 활용 권장(타 AI 병용 가능) · 생성형 AI 기반 및 Powered by Seedance 표기 필수"
+    },
+    {
+      "ix": 111280,
+      "ai_policy": "must",
+      "ai_modality": ["video"],
+      "ai_evidence": "Pollo AI를 활용해 오리지널 AI K-pop MV 영상 제작 (Pollo AI 사용 전제)",
+      "source_level": "L0",
+      "confidence": 0.95,
+      "fit_score": 0.95,
+      "sum_task": "Pollo AI로 오리지널 K-pop MV 영상 1편 제작 후 SNS 공개 게시",
+      "sum_topic": "K-pop MV (Pollo AI 활용)",
+      "sum_format": "15초 이상~1분 이하 · 가로/세로/정사각 모두 가능",
+      "sum_target": "누구나(Pollo AI 사용 가능자) · X 또는 Instagram 공개 계정 · 1인 1작품",
+      "sum_submit": "X/IG에 게시 + @polloai_kr 태그 + #aikpopmv챌린지 #폴로ai → 구글폼 제출",
+      "sum_notes": "실존 아티스트의 초상·이름·음원·MV 장면 무단 사용 금지"
+    },
+    {
+      "ix": 111290,
+      "ai_policy": "allowed",
+      "ai_modality": ["video", "image"],
+      "ai_evidence": "③ AI 영상: 드론으로 촬영한 이미지와 함께 AI 편집 영상 5~10초 내외 제작 / AI 특별상 별도 운영",
+      "source_level": "L0",
+      "confidence": 0.9,
+      "fit_score": 0.85,
+      "sum_task": "드론 영상 / 드론 사진 / AI 영상 중 선택 제작·게시 (부문별)",
+      "sum_topic": "①영상: 하늘에서 발견한 이야기 ②사진: 하늘에서 발견한 순간 ③AI영상: 상상 그 이상의 VIEW!",
+      "sum_format": "영상 16:9·9:16 · 30초~2분 / 사진 FHD~4K / AI영상 5~10초",
+      "sum_target": "제한 없음 (복수 응모 가능, 중복 수상 불가)",
+      "sum_submit": "드론플레이 게시판 참여, 영상은 유튜브 업로드 후 URL 기입 + 네이버폼 제출",
+      "sum_notes": "저작권·초상권 문제 없는 소스 사용 · 출품작 저작권은 주최사 귀속"
+    },
+    {
+      "ix": 111306,
+      "ai_policy": "must",
+      "ai_modality": ["video", "image", "text", "audio"],
+      "ai_evidence": "학생이 생성형 AI를 도구로 활용하여 금산을 소개·알리는 창작물 제작 / 공모 분야는 영상, 포스터, 웹툰, 노래",
+      "source_level": "L0",
+      "confidence": 0.9,
+      "fit_score": 0.85,
+      "sum_task": "생성형 AI로 금산을 소개하는 창작물 1편 (영상/포스터/웹툰/노래 중 택1)",
+      "sum_topic": "AI로 그리는 금산 — 자연·관광·역사·문화유산·인물·인삼·축제·특산물·미래 금산",
+      "sum_format": "파일명 '학교명_팀명_분야_작품명' / 영상은 이메일, 나머지는 구글폼 제출",
+      "sum_target": "전국 유·초·중·고 및 동연령 청소년 (개인/팀 2~4명·같은 학교). 노래 분야는 금산 관내만",
+      "sum_submit": "영상→gsedu@g.cnees.kr / 포스터·웹툰·노래→구글폼 (참가신청서 등 작성)",
+      "sum_notes": "AI 결과물을 그대로 제출이 아니라 주제 선정·선별·다듬는 과정을 중시"
+    },
+    {
+      "ix": 111315,
+      "ai_policy": "must",
+      "ai_modality": ["audio"],
+      "ai_evidence": "주제에 맞춰 AI로 음악을 만들고 투표·좋아요·재생으로 경쟁 / Suno를 사용하는 모든 크리에이터",
+      "source_level": "L0",
+      "confidence": 0.9,
+      "fit_score": 0.9,
+      "sum_task": "AI로 '가을' 주제 음악 제작 → AMT 챌린지 참가",
+      "sum_topic": "가을 — AI로 당신만의 가을을 음악으로 표현",
+      "sum_format": "본문 미기재 (도구: Suno)",
+      "sum_target": "Suno를 사용하는 모든 크리에이터 (제한 없음)",
+      "sum_submit": "AMT 챌린지 참가 (상세 미기재 → 홈페이지 확인)",
+      "sum_notes": "출품곡은 AMT 음원공간에 공개 · 투표·좋아요·재생으로 경쟁"
+    }
+  ]
+}
