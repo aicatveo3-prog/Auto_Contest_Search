@@ -1,4 +1,7 @@
 import json
+from datetime import time
+
+from ..schedule import schedule_bounds
 
 TEMPLATE = r"""<!DOCTYPE html>
 <html lang="ko">
@@ -151,32 +154,31 @@ function toggleBookmark(ix){
 }
 
 function policyOf(it){ return it.ai_policy || "none"; }
-function parseDate(s){
-  const m = s ? String(s).match(/(\d{4})-(\d{1,2})-(\d{1,2})/) : null;
-  return m ? new Date(+m[1], +m[2]-1, +m[3]) : null;
-}
-function todayDate(){ const n = new Date(); return new Date(n.getFullYear(), n.getMonth(), n.getDate()); }
-function ddayInfo(it){
-  const end = parseDate(it.end_date);
-  if(!end) return {text: it.dday || "", past: false, days: null};
-  const days = Math.round((end - todayDate()) / 86400000);
-  if(days < 0) return {text: "마감", past: true, days: days};
-  if(days === 0) return {text: "오늘 마감", past: false, days: 0};
-  return {text: "D-"+days, past: false, days: days};
+function kstDay(ms){ return Math.floor((ms + 9 * 3600000) / 86400000); }
+function ddayInfo(it, now=Date.now()){
+  const start = Date.parse(it.start_at), end = Date.parse(it.end_at);
+  if(now > end) return {text:"마감", status:"end", days:kstDay(end)-kstDay(now)};
+  if(now < start){
+    const days = kstDay(start)-kstDay(now);
+    return {text:days ? "접수예정 · D-"+days : "오늘 접수 시작", status:"future", days:days};
+  }
+  if(!Number.isFinite(start) || !Number.isFinite(end)){
+    return {text:"일정 확인", status:"unknown", days:null};
+  }
+  const days = kstDay(end)-kstDay(now);
+  return {text:days ? "D-"+days : "오늘 마감", status:"ing", days:days};
 }
 function ddayNum(it){
   const info = ddayInfo(it);
   if(info.days === null) return 9998;
-  if(info.past) return 9999 + Math.abs(info.days);
+  if(info.status==="end") return 9999 + Math.abs(info.days);
   return info.days;
 }
 function progressPct(it, info){
-  if(info.past) return 100;
-  const s = parseDate(it.start_date), e = parseDate(it.end_date);
-  if(s && e && e > s){
-    return Math.max(4, Math.min(100, Math.round((todayDate() - s) / (e - s) * 100)));
-  }
-  return info.days === null ? 0 : Math.max(4, 100 - info.days * 3.3);
+  if(info.status==="end") return 100;
+  if(info.status!=="ing") return 0;
+  const s = Date.parse(it.start_at), e = Date.parse(it.end_at);
+  return e > s ? Math.max(4, Math.min(100, Math.round((Date.now() - s) / (e - s) * 100))) : 100;
 }
 function modalities(it){
   if(!it.ai_modality) return [];
@@ -196,9 +198,7 @@ function filtered(){
     if(state.bmOnly && !isBm(it.ix)) return false;
     if(state.policy.size && !state.policy.has(policyOf(it))) return false;
     if(state.modality.size && !modalities(it).some(m=>state.modality.has(m))) return false;
-    const past = ddayInfo(it).past;
-    if(state.period==="open" && past) return false;
-    if(state.period==="closed" && !past) return false;
+    if(state.period!=="all" && state.period!==ddayInfo(it).status) return false;
     if(q){
       const hay = [it.title,it.host,it.category,it.ai_evidence].join(" ").toLowerCase();
       if(!hay.includes(q)) return false;
@@ -234,12 +234,13 @@ function renderChips(){
     keys.forEach(m=>mf.appendChild(chip(MODALITY[m]||m, mc[m], state.modality.has(m), ()=>toggleSet(state.modality,m))));
   }
   const df = document.getElementById("dateFilters"); df.innerHTML="";
-  const openCount = DATA.filter(it=>!ddayInfo(it).past).length;
-  const closedCount = DATA.length - openCount;
+  const counts = {};
+  DATA.forEach(it=>{ const status = ddayInfo(it).status; counts[status] = (counts[status] || 0) + 1; });
   df.appendChild(rowLabel("기간"));
   df.appendChild(chip("기간 전체", DATA.length, state.period==="all", ()=>{ state.period="all"; render(); }));
-  if(openCount) df.appendChild(chip("진행중·예정", openCount, state.period==="open", ()=>{ state.period="open"; render(); }));
-  if(closedCount) df.appendChild(chip("마감", closedCount, state.period==="closed", ()=>{ state.period="closed"; render(); }));
+  Object.entries({ing:"접수중", future:"접수예정", end:"마감", unknown:"일정 확인"}).forEach(([status,label])=>{
+    if(counts[status]) df.appendChild(chip(label, counts[status], state.period===status, ()=>{ state.period=status; render(); }));
+  });
 }
 function fieldRow(k, v, cls){
   if(!v) return "";
@@ -254,10 +255,10 @@ function prizeSummary(it){
 function card(it){
   const p = policyOf(it);
   const dd = ddayInfo(it);
-  const hot = !dd.past && dd.days !== null && dd.days <= 3;
+  const hot = dd.status==="ing" && dd.days <= 3;
   const a = document.createElement("article");
-  a.className = "card"+(isBm(it.ix)?" bm":"")+(dd.past?" expired":"")+(hot?" hot":"");
-  const endText = it.end_date ? '<small>마감 '+esc(it.end_date)+'</small>' : "";
+  a.className = "card"+(isBm(it.ix)?" bm":"")+(dd.status==="end"?" expired":"")+(hot?" hot":"");
+  const endText = it.end_label ? '<small>마감 '+esc(it.end_label)+'</small>' : "";
   const tags = modalities(it).map(m=>'<span class="tag">'+esc(MODALITY[m]||m)+'</span>').join("");
   const evidence = it.ai_evidence ? '<div class="evidence">'+esc(it.ai_evidence)+'</div>' : "";
   const homepage = it.homepage_url ? '<a href="'+esc(it.homepage_url)+'" target="_blank" rel="noopener">홈페이지</a>' : "";
@@ -315,9 +316,9 @@ function card(it){
 function listRow(it){
   const p = policyOf(it);
   const dd = ddayInfo(it);
-  const hot = !dd.past && dd.days !== null && dd.days <= 3;
+  const hot = dd.status==="ing" && dd.days <= 3;
   const el = document.createElement("div");
-  el.className = "lrow"+(dd.past?" expired":"")+(hot?" hot":"");
+  el.className = "lrow"+(dd.status==="end"?" expired":"")+(hot?" hot":"");
   el.innerHTML =
     '<span>'+badgeHtml(p)+'</span>'+
     '<span class="t"><a href="'+esc(it.detail_url)+'" target="_blank" rel="noopener">'+esc(it.title)+'</a></span>'+
@@ -411,6 +412,10 @@ def _parse_breakdown(value):
 def render(rows, generated_at):
     items = []
     for row in rows:
+        start, end = schedule_bounds(row)
+        end_label = row.get("end_date")
+        if end:
+            end_label = end.date().isoformat() if end.time() == time.max else end.strftime("%Y-%m-%d %H:%M")
         items.append({
             "ix": row.get("ix"),
             "title": row.get("title"),
@@ -424,9 +429,9 @@ def render(rows, generated_at):
             "sum_target": row.get("sum_target"),
             "sum_submit": row.get("sum_submit"),
             "sum_notes": row.get("sum_notes"),
-            "dday": row.get("dday"),
-            "start_date": row.get("start_date"),
-            "end_date": row.get("end_date"),
+            "start_at": start.isoformat(timespec="milliseconds") if start else None,
+            "end_at": end.isoformat(timespec="milliseconds") if end else None,
+            "end_label": end_label,
             "prize_total": row.get("prize_total"),
             "prize_total_amount": row.get("prize_total_amount"),
             "prize_first": row.get("prize_first"),

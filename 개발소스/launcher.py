@@ -50,11 +50,8 @@ if FROZEN:
     contest_config.PROJECT_ROOT = Path(BASE_DIR)
     meipass = getattr(sys, "_MEIPASS", None)
     bundled = Path(meipass) / "config" / "settings.yaml" if meipass else None
-    settings_path = (
-        bundled
-        if bundled and bundled.exists()
-        else Path(BASE_DIR) / "config" / "settings.yaml"
-    )
+    local_settings = Path(BASE_DIR) / "config" / "settings.yaml"
+    settings_path = bundled if bundled and bundled.exists() else local_settings
     contest_config.DEFAULT_SETTINGS = settings_path
     SETTINGS_ARG = ["--settings", str(settings_path)]
 
@@ -66,18 +63,13 @@ else:
     except ImportError:
         contest_cli = None
 
-UPDATE_CMDS = [
-    ["-m", "src.cli", "collect", "--modes", "ing", "--cats", "10,20,21,1,26"],
-    ["-m", "src.cli", "fetch"],
-    ["-m", "src.cli", "enrich"],
-    ["-m", "src.cli", "html"],
-]
 UPDATE_CLI = [
-    ["collect", "--modes", "ing", "--cats", "10,20,21,1,26"],
+    ["collect"],
     ["fetch"],
     ["enrich"],
     ["html"],
 ]
+UPDATE_CMDS = [["-m", "src.cli", *args] for args in UPDATE_CLI]
 
 
 class QueueWriter:
@@ -211,12 +203,12 @@ class App:
         self.card_run.pack(fill="x", pady=(0, 12))
 
         self.card_update = Card(
-            cards, "데이터 갱신", "최신 공모전 재수집 · 몇 분 소요", self.on_update
+            cards, "데이터 갱신", "접수 중·예정 공모전 수집", self.on_update
         )
         self.card_update.pack(fill="x", pady=(0, 12))
 
         self.card_analyze = Card(
-            cards, "AI 정밀 판정", "에이전트가 본문을 읽고 분류 · 몇 분 소요", self.on_analyze
+            cards, "AI 정밀 판정", "마감 임박 공모전부터 최대 30건 판정", self.on_analyze
         )
         self.card_analyze.pack(fill="x")
 
@@ -318,7 +310,7 @@ class App:
         self.queue_put(("status", "판정 대상 내보내는 중..."))
         try:
             code = contest_cli.main(SETTINGS_ARG + [
-                "batch", "--n", "30", "--scope", "either", "--out", "batch_auto.json",
+                "batch", "--n", "30", "--out", "batch_auto.json",
             ])
         except Exception as exc:
             self.queue_put(("done", f"배치 생성 실패: {exc}"))
@@ -328,13 +320,16 @@ class App:
             return
         try:
             payload = json.loads(BATCH_FILE.read_text(encoding="utf-8"))
-            count = len(payload.get("items") or [])
-        except Exception:
-            count = 0
-        if not count:
-            self.queue_put(("done", "새로 판정할 공모전이 없습니다 — 먼저 데이터 갱신을 눌러주세요."))
+            count = payload["count"]
+            pending = payload["pending_total"]
+            detail_pending = payload["detail_pending"]
+        except (OSError, ValueError, KeyError) as exc:
+            self.queue_put(("done", f"판정 배치 읽기 실패: {exc}"))
             return
-        self.queue_put(("line", f"배치 {count}건 → 에이전트 분석 시작 (몇 분 소요)..."))
+        if not count:
+            self.queue_put(("done", f"판정 대기 0건 · 상세 수집 대기 {detail_pending}건"))
+            return
+        self.queue_put(("line", f"판정 대기 {pending}건 중 {count}건 시작 · 상세 수집 대기 {detail_pending}건"))
         self.queue_put(("status", "AI 정밀 판정 중... 아래 로그에 진행 상황이 표시됩니다"))
         try:
             if LABELS_FILE.exists():
@@ -363,14 +358,20 @@ class App:
             return
         self.queue_put(("status", "판정 결과 적용 중..."))
         try:
-            apply_code = contest_cli.main(SETTINGS_ARG + ["apply", str(LABELS_FILE)])
+            apply_code = contest_cli.main(SETTINGS_ARG + [
+                "apply", str(LABELS_FILE), "--batch", str(BATCH_FILE),
+            ])
         except Exception as exc:
             self.queue_put(("done", f"적용 실패: {exc}"))
             return
         if apply_code != 0:
             self.queue_put(("done", "적용 실패 — 로그 확인"))
             return
-        contest_cli.main(SETTINGS_ARG + ["html"])
+        try:
+            contest_cli.main(SETTINGS_ARG + ["html"])
+        except Exception as exc:
+            self.queue_put(("done", f"판정 적용 완료 · 대시보드 갱신 실패: {exc}"))
+            return
         self.queue_put(("done", "정밀 판정 완료! 대시보드에서 확인하세요."))
 
     def on_dashboard(self):

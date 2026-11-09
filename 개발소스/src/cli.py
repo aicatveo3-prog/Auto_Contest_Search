@@ -1,9 +1,12 @@
 import argparse
+import json
 import sys
 import time
+from contextlib import closing
 
 from .config import load_settings, resolve
 from .pipeline import (
+    analysis_queue,
     build_client,
     run_apply,
     run_batch,
@@ -18,6 +21,7 @@ from .pipeline import (
     run_sample,
     run_serve,
 )
+from .schedule import now_kst, schedule_bounds, schedule_status
 from .storage import db
 
 
@@ -64,6 +68,7 @@ def main(argv=None):
 
     apply_parser = sub.add_parser("apply", help="apply analysis labels from JSON")
     apply_parser.add_argument("path")
+    apply_parser.add_argument("--batch", help="validate labels against the exact batch before applying")
 
     batch_parser = sub.add_parser("batch", help="export next unanalyzed batch")
     batch_parser.add_argument("--n", type=int, default=15)
@@ -94,8 +99,12 @@ def main(argv=None):
 
     args = parser.parse_args(argv)
     config = load_settings(args.settings)
-    connection = db.connect(resolve(config["storage"]["db_path"]))
-    db.init_db(connection)
+    with closing(db.connect(resolve(config["storage"]["db_path"]))) as connection:
+        db.init_db(connection)
+        return _run_command(config, connection, args)
+
+
+def _run_command(config, connection, args):
     client = build_client(config)
 
     if args.command == "collect":
@@ -110,7 +119,7 @@ def main(argv=None):
 
     elif args.command == "fetch":
         count = run_fetch_details(
-            config, client, connection, limit=args.limit, refetch=args.refetch
+            config, client, connection, limit=args.limit, refetch=args.refetch, on_error=_print
         )
         _print(f"fetched {count} detail pages; total in db: {db.count(connection)}")
 
@@ -130,8 +139,18 @@ def main(argv=None):
         _print(f"sample written to {path}")
 
     elif args.command == "apply":
-        count = run_apply(config, connection, args.path)
-        _print(f"applied {count} labels")
+        batch = None
+        if args.batch:
+            with open(args.batch, encoding="utf-8-sig") as handle:
+                batch = json.load(handle)
+            if not isinstance(batch, dict):
+                raise ValueError("판정 배치는 JSON 객체여야 합니다.")
+        count = run_apply(config, connection, args.path, batch=batch)
+        if args.batch:
+            pending, detail_pending = analysis_queue(connection)
+            _print(f"판정 {count}건 적용 · 남은 판정 {len(pending)}건 · 상세 수집 대기 {detail_pending}건")
+        else:
+            _print(f"applied {count} labels")
 
     elif args.command == "batch":
         keywords = _parse_list(args.keywords)
@@ -179,8 +198,10 @@ def main(argv=None):
         analyzed = db.count(connection, "ai_policy IS NOT NULL")
         rows = db.get_contests(connection, order="status")
         statuses = {}
+        now = now_kst()
         for row in rows:
-            statuses[row["status"]] = statuses.get(row["status"], 0) + 1
+            status = schedule_status(*schedule_bounds(row), now)
+            statuses[status] = statuses.get(status, 0) + 1
         _print(f"total: {total}")
         _print(f"with detail body: {with_body}")
         _print(f"analyzed (ai_policy): {analyzed}")

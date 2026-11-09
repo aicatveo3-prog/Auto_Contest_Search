@@ -13,6 +13,7 @@ CREATE TABLE IF NOT EXISTS contests (
     sponsor      TEXT,
     status       TEXT,
     status_label TEXT,
+    listing_status TEXT,
     flags        TEXT,
     start_date   TEXT,
     end_date     TEXT,
@@ -44,6 +45,7 @@ CREATE TABLE IF NOT EXISTS contests (
     fit_score    REAL,
     bookmarked   INTEGER DEFAULT 0,
     collected_at TEXT,
+    detail_fetched_at TEXT,
     analyzed_at  TEXT
 );
 """
@@ -66,6 +68,7 @@ COLUMNS = [
     "bookmarked", "collected_at", "analyzed_at",
 ]
 
+_STORED_COLUMNS = set(COLUMNS) | {"listing_status", "detail_fetched_at"}
 _JSON_COLUMNS = {"attachments", "prize_breakdown"}
 
 
@@ -80,7 +83,7 @@ def connect(db_path):
 def init_db(connection):
     connection.executescript(SCHEMA)
     existing = {row[1] for row in connection.execute("PRAGMA table_info(contests)")}
-    for column in COLUMNS:
+    for column in (*COLUMNS, "listing_status", "detail_fetched_at"):
         if column in existing:
             continue
         column_type = "INTEGER" if column.endswith("_count") or column.endswith("_value") or column == "bookmarked" else "TEXT"
@@ -92,7 +95,7 @@ def init_db(connection):
 def _normalize(data):
     normalized = {}
     for key, value in data.items():
-        if key not in COLUMNS:
+        if key not in _STORED_COLUMNS:
             continue
         if key in _JSON_COLUMNS and isinstance(value, (list, tuple, set)):
             value = json.dumps(list(value), ensure_ascii=False)
@@ -100,7 +103,7 @@ def _normalize(data):
     return normalized
 
 
-def upsert_contest(connection, data):
+def upsert_contest(connection, data, *, commit=True):
     record = _normalize(data)
     if "ix" not in record or record["ix"] is None:
         raise ValueError("upsert_contest requires 'ix'")
@@ -113,7 +116,8 @@ def upsert_contest(connection, data):
         f"ON CONFLICT(ix) DO UPDATE SET {assignments}"
     )
     connection.execute(sql, [record[col] for col in columns])
-    connection.commit()
+    if commit:
+        connection.commit()
 
 
 def get_contests(connection, where=None, params=(), order="ix DESC"):

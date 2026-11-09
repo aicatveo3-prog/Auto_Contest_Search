@@ -5,6 +5,8 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
+from ..schedule import PERIOD_SEPARATOR
+
 BASE_URL = "https://www.wevity.com/"
 
 MODE_LABELS = {
@@ -170,10 +172,10 @@ class WevityClient:
 
         duration = info.get("접수기간", "")
         if duration:
-            start, _, end = duration.partition("~")
+            start, *end = PERIOD_SEPARATOR.split(duration, maxsplit=1)
             data["start_date"] = start.strip()
-            if end.strip():
-                data["end_date"] = end.strip()
+            if end and end[0].strip():
+                data["end_date"] = end[0].strip()
 
         attachment = info.get("첨부파일", "")
         data["attachments"] = [] if attachment in ("", "파일없음") else [attachment]
